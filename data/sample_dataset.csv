@@ -1,0 +1,1001 @@
+Age,Income,Tenure,Monthly_Expense,Credit_Score,Gender,City,Occupation,Education_Level,Satisfaction
+43.0,4600000.0,1.0,1456000.0,597.0,Male,Surabaya,Software Engineer,High School,Satisfied
+37.0,4160000.0,3.0,2221000.0,729.0,Female,Surabaya,Teacher,Bachelor,Very Satisfied
+44.0,9570000.0,4.0,5761000.0,740.0,Male,Surabaya,Teacher,Master,Very Satisfied
+53.0,10850000.0,3.0,3874000.0,693.0,Female,Yogyakarta,Software Engineer,Bachelor,Very Unsatisfied
+36.0,3690000.0,5.0,2156000.0,585.0,Male,Yogyakarta,Software Engineer,High School,Very Satisfied
+36.0,20010000.0,6.0,11980000.0,814.0,Female,Jakarta,Teacher,Master,Very Unsatisfied
+54.0,3820000.0,3.0,2368000.0,649.0,Female,Surabaya,Data Analyst,Bachelor,Very Satisfied
+46.0,8180000.0,2.0,3214000.0,725.0,Female,Surabaya,Software Engineer,Doctorate,Neutral
+33.0,10910000.0,3.0,6725000.0,684.0,Female,Surabaya,Doctor,Bachelor,Neutral
+43.0,15790000.0,3.0,6509000.0,696.0,Male,Medan,Doctor,High School,Unsatisfied
+88.0,11010000.0,3.0,5431000.0,723.0,Male,Surabaya,Data Analyst,Bachelor,Unsatisfied
+92.0,13210000.0,6.0,4197000.0,628.0,Male,Surabaya,Entrepreneur,Bachelor,Satisfied
+95.0,5990000.0,7.0,1889000.0,778.0,Female,Medan,Marketing,High School,Very Satisfied
+89.0,13620000.0,2.0,7520000.0,562.0,Female,Medan,Data Analyst,High School,Satisfied
+94.0,4000000.0,4.0,1822000.0,602.0,Male,Jakarta,Teacher,High School,Satisfied
+32.0,17010000.0,3.0,6629000.0,777.0,Female,Bandung,Marketing,Bachelor,Satisfied
+28.0,8260000.0,6.0,3028000.0,724.0,Female,Surabaya,Teacher,Bachelor,Neutral
+41.0,13700000.0,8.0,7322000.0,850.0,Female,Jakarta,Doctor,Bachelor,Very Unsatisfied
+29.0,7110000.0,5.0,2134000.0,685.0,Female,Jakarta,Software Engineer,High School,Very Unsatisfied
+24.0,9690000.0,4.0,5640000.0,808.0,Male,Surabaya,Teacher,Bachelor,Neutral
+53.0,7980000.0,1.0,2615000.0,541.0,Male,Surabaya,Doctor,Bachelor,Neutral
+36.0,11390000.0,2.0,4180000.0,574.0,Male,Jakarta,Data Analyst,Bachelor,Very Unsatisfied
+39.0,4010000.0,5.0,1745000.0,747.0,Male,Bandung,Teacher,High School,Unsatisfied
+24.0,3870000.0,5.0,1818000.0,549.0,Female,Bandung,Doctor,High School,Unsatisfied
+33.0,5200000.0,3.0,2206000.0,665.0,Female,Jakarta,Software Engineer,Bachelor,Very Satisfied
+39.0,45000000.0,1.0,18551000.0,768.0,Female,Jakarta,Teacher,High School,Unsatisfied
+26.0,52000000.0,1.0,33143000.0,718.0,Female,Medan,Entrepreneur,Bachelor,Satisfied
+42.0,68000000.0,4.0,35670000.0,681.0,Male,Jakarta,Doctor,Bachelor,Satisfied
+32.0,75000000.0,8.0,23115000.0,646.0,Male,Yogyakarta,Teacher,Bachelor,Satisfied
+35.0,82000000.0,3.0,36946000.0,695.0,Male,Bandung,Software Engineer,Bachelor,Unsatisfied
+32.0,95000000.0,6.0,57594000.0,723.0,Male,Jakarta,Teacher,Bachelor,Neutral
+57.0,58000000.0,1.0,23520000.0,630.0,Male,Jakarta,Teacher,Bachelor,Very Unsatisfied
+38.0,62000000.0,4.0,20652000.0,708.0,Male,Jakarta,Entrepreneur,Master,Neutral
+27.0,70000000.0,4.0,39580000.0,761.0,Male,Jakarta,Doctor,Master,Unsatisfied
+46.0,79000000.0,6.0,40456000.0,663.0,Male,Jakarta,Marketing,Bachelor,Satisfied
+26.0,88000000.0,1.0,43966000.0,685.0,Female,Bandung,Teacher,Bachelor,Satisfied
+40.0,99000000.0,7.0,31556000.0,716.0,Male,Jakarta,Marketing,Bachelor,Satisfied
+18.0,37150000.0,2.0,12972000.0,721.0,Male,Surabaya,Data Analyst,Master,Neutral
+25.0,25580000.0,5.0,13248000.0,746.0,Male,Surabaya,Teacher,High School,Neutral
+40.0,9800000.0,6.0,3653000.0,604.0,Female,Jakarta,Marketing,Doctorate,Satisfied
+45.0,4840000.0,7.0,2306000.0,640.0,Male,Jakarta,Data Analyst,Bachelor,Unsatisfied
+40.0,10340000.0,5.0,5074000.0,643.0,Male,Jakarta,Entrepreneur,Bachelor,Satisfied
+37.0,3950000.0,4.0,1577000.0,612.0,Female,Jakarta,Doctor,High School,Satisfied
+35.0,3690000.0,5.0,2332000.0,545.0,Female,Bandung,Teacher,Bachelor,Neutral
+23.0,5290000.0,5.0,3147000.0,436.0,Female,Jakarta,Doctor,Bachelor,Neutral
+31.0,7230000.0,3.0,3997000.0,770.0,Male,Medan,Data Analyst,High School,Neutral
+33.0,15660000.0,1.0,5125000.0,563.0,Male,Surabaya,Doctor,Bachelor,Unsatisfied
+49.0,11290000.0,4.0,3806000.0,797.0,Male,Surabaya,Doctor,Master,Very Unsatisfied
+41.0,11650000.0,8.0,5504000.0,735.0,Female,Surabaya,Software Engineer,Bachelor,Unsatisfied
+20.0,6830000.0,3.0,2433000.0,650.0,Male,Bandung,Data Analyst,Bachelor,Unsatisfied
+41.0,6050000.0,22.0,3886000.0,726.0,Male,Jakarta,Doctor,High School,Satisfied
+34.0,6280000.0,24.0,2232000.0,712.0,Female,Jakarta,Marketing,Master,Satisfied
+31.0,29860000.0,25.0,14053000.0,597.0,Female,Surabaya,Data Analyst,Master,Neutral
+44.0,3750000.0,3.0,1603000.0,679.0,Male,Jakarta,Software Engineer,Bachelor,Very Satisfied
+48.0,15610000.0,2.0,8176000.0,607.0,Female,Surabaya,Teacher,Bachelor,Very Satisfied
+47.0,8690000.0,5.0,2999000.0,729.0,Female,Bandung,Entrepreneur,Bachelor,Very Satisfied
+30.0,6960000.0,5.0,3136000.0,626.0,Male,Surabaya,Doctor,Bachelor,Satisfied
+35.0,11250000.0,4.0,4457000.0,673.0,Male,Bandung,Marketing,Bachelor,Neutral
+41.0,7500000.0,3.0,4580000.0,670.0,Female,Surabaya,Software Engineer,Doctorate,Very Unsatisfied
+48.0,15900000.0,7.0,4996000.0,689.0,Female,Bandung,Data Analyst,Bachelor,Satisfied
+33.0,17360000.0,4.0,10760000.0,805.0,Male,Bandung,Entrepreneur,Bachelor,Satisfied
+36.0,6790000.0,3.0,4017000.0,662.0,Male,Surabaya,Entrepreneur,Bachelor,Satisfied
+27.0,5440000.0,0.0,2199000.0,771.0,Female,Bandung,Doctor,Master,Very Satisfied
+26.0,8880000.0,2.0,5117000.0,716.0,Female,Medan,Software Engineer,High School,Satisfied
+46.0,18110000.0,3.0,5631000.0,786.0,Female,Surabaya,Software Engineer,Bachelor,Neutral
+52.0,4920000.0,3.0,3141000.0,655.0,Male,Surabaya,Marketing,Bachelor,Unsatisfied
+37.0,9350000.0,5.0,4528000.0,732.0,Male,Bandung,Teacher,Bachelor,Very Unsatisfied
+48.0,9490000.0,4.0,3854000.0,676.0,Female,Surabaya,Teacher,Master,Satisfied
+42.0,11430000.0,5.0,4880000.0,456.0,Male,Jakarta,Teacher,High School,Satisfied
+32.0,4350000.0,7.0,1406000.0,598.0,Female,Medan,Entrepreneur,Master,Satisfied
+42.0,11050000.0,3.0,7141000.0,724.0,Female,Jakarta,Entrepreneur,High School,Satisfied
+53.0,17880000.0,5.0,5610000.0,719.0,Male,Bandung,Data Analyst,High School,Very Satisfied
+38.0,4690000.0,2.0,2482000.0,583.0,Female,Bandung,Entrepreneur,Master,Satisfied
+54.0,5130000.0,6.0,2334000.0,697.0,Male,Yogyakarta,Entrepreneur,Bachelor,Satisfied
+18.0,24830000.0,5.0,15696000.0,718.0,Female,Jakarta,Software Engineer,Bachelor,Unsatisfied
+46.0,4700000.0,6.0,1815000.0,677.0,Male,Surabaya,Data Analyst,Bachelor,Very Satisfied
+39.0,15060000.0,3.0,7323000.0,735.0,Male,Surabaya,Software Engineer,Bachelor,Satisfied
+35.0,7570000.0,2.0,3549000.0,724.0,Female,Jakarta,Marketing,Bachelor,Unsatisfied
+39.0,5200000.0,1.0,2839000.0,677.0,Female,Jakarta,Marketing,Doctorate,Unsatisfied
+18.0,15780000.0,2.0,5110000.0,642.0,Male,Surabaya,Data Analyst,Doctorate,Very Satisfied
+36.0,7040000.0,3.0,2589000.0,758.0,Female,Surabaya,Data Analyst,Bachelor,Very Unsatisfied
+42.0,7840000.0,2.0,2941000.0,715.0,Male,Jakarta,Entrepreneur,Bachelor,Neutral
+53.0,6170000.0,7.0,3445000.0,576.0,Male,Bandung,Marketing,Bachelor,Neutral
+33.0,8890000.0,2.0,3256000.0,697.0,Male,Bandung,Doctor,Bachelor,Satisfied
+30.0,4570000.0,4.0,2288000.0,594.0,Male,Bandung,Teacher,High School,Satisfied
+33.0,6480000.0,4.0,2432000.0,608.0,Male,Yogyakarta,Entrepreneur,Bachelor,Neutral
+47.0,24420000.0,0.0,14690000.0,631.0,Male,Surabaya,Teacher,High School,Neutral
+41.0,5290000.0,4.0,3331000.0,683.0,Male,Yogyakarta,Marketing,High School,Very Satisfied
+33.0,9920000.0,6.0,4776000.0,708.0,Male,Medan,Teacher,High School,Satisfied
+43.0,5860000.0,4.0,2481000.0,649.0,Male,Jakarta,Doctor,Bachelor,Very Satisfied
+39.0,12410000.0,7.0,4740000.0,653.0,Female,Jakarta,Doctor,Master,Neutral
+48.0,4340000.0,2.0,1378000.0,642.0,Male,Surabaya,Software Engineer,Bachelor,Neutral
+31.0,24500000.0,4.0,9652000.0,759.0,Female,Surabaya,Data Analyst,Bachelor,Neutral
+35.0,7130000.0,5.0,3772000.0,466.0,Female,Surabaya,Teacher,High School,Satisfied
+34.0,5120000.0,5.0,2492000.0,657.0,Female,Surabaya,Doctor,Bachelor,Unsatisfied
+23.0,3960000.0,1.0,2496000.0,796.0,Female,Bandung,Data Analyst,Bachelor,Neutral
+41.0,4620000.0,5.0,2027000.0,719.0,Female,Surabaya,Data Analyst,Bachelor,Very Unsatisfied
+41.0,7900000.0,3.0,4289000.0,775.0,Male,Jakarta,Software Engineer,Doctorate,Neutral
+38.0,5970000.0,4.0,2813000.0,527.0,Male,Medan,Data Analyst,High School,Satisfied
+36.0,14090000.0,2.0,6755000.0,587.0,Female,Jakarta,Data Analyst,Bachelor,Very Unsatisfied
+,6880000.0,5.0,2709000.0,719.0,Female,Yogyakarta,Entrepreneur,Bachelor,Satisfied
+,5220000.0,8.0,2397000.0,796.0,Female,Jakarta,Marketing,Doctorate,Very Satisfied
+,9260000.0,4.0,4304000.0,594.0,Male,Yogyakarta,Software Engineer,Master,Neutral
+,10860000.0,9.0,5944000.0,651.0,Female,Jakarta,Software Engineer,Master,Satisfied
+,4600000.0,3.0,2894000.0,710.0,Female,Jakarta,Teacher,Bachelor,Very Satisfied
+,4600000.0,3.0,1910000.0,571.0,Male,Jakarta,Data Analyst,Doctorate,Very Satisfied
+,3720000.0,0.0,1171000.0,719.0,Male,Bandung,Teacher,High School,Neutral
+,11500000.0,4.0,5448000.0,479.0,Female,Medan,Entrepreneur,High School,Unsatisfied
+,10040000.0,4.0,4925000.0,717.0,Female,Surabaya,Doctor,Master,Unsatisfied
+,7360000.0,1.0,2642000.0,605.0,Male,Yogyakarta,Data Analyst,Master,Satisfied
+19.0,14650000.0,3.0,8294000.0,646.0,Female,Surabaya,Doctor,High School,Satisfied
+38.0,13330000.0,4.0,8594000.0,729.0,Male,Bandung,Marketing,High School,Satisfied
+39.0,8780000.0,7.0,5540000.0,714.0,Male,Medan,Entrepreneur,High School,Neutral
+63.0,15660000.0,4.0,5778000.0,679.0,Male,Jakarta,Data Analyst,High School,Unsatisfied
+36.0,4880000.0,3.0,2959000.0,753.0,Male,Surabaya,Teacher,Bachelor,Satisfied
+41.0,4210000.0,1.0,2301000.0,552.0,Male,Yogyakarta,Teacher,Doctorate,Neutral
+38.0,5390000.0,5.0,2473000.0,695.0,Male,Yogyakarta,Data Analyst,Bachelor,Satisfied
+26.0,3850000.0,7.0,1883000.0,621.0,Female,Yogyakarta,Teacher,Master,Neutral
+49.0,8050000.0,4.0,4809000.0,749.0,Female,Yogyakarta,Data Analyst,Master,Neutral
+46.0,20050000.0,4.0,9384000.0,732.0,Male,Jakarta,Software Engineer,Bachelor,Neutral
+46.0,,1.0,1611000.0,734.0,Male,Medan,Teacher,Master,Unsatisfied
+29.0,,8.0,2023000.0,803.0,Male,Surabaya,Data Analyst,Bachelor,Neutral
+52.0,,4.0,3574000.0,764.0,Female,Yogyakarta,Data Analyst,Bachelor,Unsatisfied
+24.0,,1.0,7250000.0,668.0,Male,Surabaya,Teacher,Bachelor,Neutral
+44.0,,1.0,3557000.0,680.0,Male,Surabaya,Software Engineer,Bachelor,Very Unsatisfied
+60.0,7750000.0,2.0,4154000.0,725.0,Female,Surabaya,Teacher,Master,Unsatisfied
+28.0,3750000.0,4.0,1956000.0,690.0,Female,Jakarta,Data Analyst,Doctorate,Satisfied
+32.0,4460000.0,0.0,1493000.0,733.0,Male,Jakarta,Software Engineer,Bachelor,Neutral
+39.0,29390000.0,7.0,15032000.0,513.0,Male,Medan,Doctor,Master,Satisfied
+33.0,23630000.0,4.0,8089000.0,821.0,Male,Medan,Marketing,High School,Satisfied
+22.0,3530000.0,,1156000.0,685.0,Female,Jakarta,Teacher,Master,Satisfied
+39.0,21700000.0,,10515000.0,558.0,Male,Bandung,Entrepreneur,Bachelor,Very Satisfied
+27.0,9620000.0,,4242000.0,611.0,Male,Bandung,Data Analyst,High School,Very Unsatisfied
+43.0,15650000.0,,7920000.0,520.0,Female,Surabaya,Software Engineer,Bachelor,Satisfied
+29.0,7140000.0,6.0,2365000.0,598.0,Male,Jakarta,Software Engineer,Bachelor,Very Satisfied
+53.0,7850000.0,8.0,3539000.0,669.0,Male,Medan,Doctor,High School,Very Satisfied
+30.0,7530000.0,4.0,2720000.0,794.0,Male,Bandung,Teacher,Master,Unsatisfied
+35.0,10100000.0,2.0,6519000.0,711.0,Male,Surabaya,Entrepreneur,High School,Neutral
+46.0,4400000.0,8.0,2184000.0,697.0,Male,Bandung,Software Engineer,Doctorate,Unsatisfied
+26.0,3680000.0,6.0,1989000.0,595.0,Male,Jakarta,Doctor,Master,Satisfied
+40.0,5710000.0,2.0,,618.0,Male,Surabaya,Data Analyst,Bachelor,Satisfied
+51.0,10820000.0,5.0,,624.0,Male,Jakarta,Doctor,Bachelor,Neutral
+22.0,4850000.0,4.0,,627.0,Female,Jakarta,Teacher,Master,Satisfied
+40.0,10210000.0,3.0,,654.0,Male,Bandung,Doctor,Bachelor,Satisfied
+41.0,24520000.0,4.0,,659.0,Male,Yogyakarta,Software Engineer,Bachelor,Neutral
+46.0,4090000.0,3.0,,655.0,Female,Surabaya,Software Engineer,Bachelor,Very Satisfied
+26.0,10200000.0,3.0,3148000.0,630.0,Female,Jakarta,Marketing,Bachelor,Satisfied
+25.0,7020000.0,6.0,4097000.0,690.0,Female,Bandung,Doctor,Doctorate,Very Unsatisfied
+43.0,15660000.0,3.0,7639000.0,656.0,Male,Medan,Data Analyst,Bachelor,Satisfied
+41.0,4670000.0,3.0,1856000.0,560.0,Male,Bandung,Entrepreneur,Bachelor,Neutral
+41.0,10580000.0,3.0,3402000.0,,Female,Medan,Entrepreneur,Bachelor,Satisfied
+41.0,14430000.0,5.0,5150000.0,,Female,Surabaya,Teacher,Master,Very Satisfied
+31.0,20860000.0,3.0,12793000.0,,Male,Bandung,Marketing,Master,Very Satisfied
+40.0,10400000.0,4.0,5617000.0,636.0,Female,Jakarta,Doctor,Bachelor,Neutral
+41.0,7630000.0,3.0,2956000.0,725.0,Male,Jakarta,Data Analyst,High School,Neutral
+31.0,9270000.0,3.0,2994000.0,595.0,Female,Surabaya,Marketing,High School,Neutral
+57.0,15690000.0,6.0,8500000.0,587.0,Female,Surabaya,Software Engineer,Bachelor,Satisfied
+43.0,8570000.0,4.0,4288000.0,656.0,Female,Yogyakarta,Teacher,Bachelor,Unsatisfied
+26.0,3690000.0,7.0,1629000.0,727.0,Female,Medan,Doctor,Doctorate,Satisfied
+45.0,19540000.0,0.0,8349000.0,816.0,Female,Jakarta,Entrepreneur,Bachelor,Very Unsatisfied
+28.0,10520000.0,6.0,3954000.0,729.0,Male,,Data Analyst,Bachelor,Neutral
+46.0,10270000.0,3.0,5488000.0,761.0,Male,,Software Engineer,Master,Unsatisfied
+50.0,4960000.0,4.0,3173000.0,706.0,Male,,Marketing,Bachelor,Very Satisfied
+30.0,9950000.0,3.0,3597000.0,629.0,Male,Bandung,Teacher,Bachelor,Satisfied
+48.0,6500000.0,5.0,3308000.0,729.0,Female,Yogyakarta,Marketing,High School,Neutral
+42.0,9820000.0,3.0,4404000.0,674.0,Male,Yogyakarta,Entrepreneur,Bachelor,Unsatisfied
+46.0,4180000.0,2.0,1908000.0,708.0,Male,Bandung,Marketing,Doctorate,Satisfied
+57.0,9930000.0,1.0,3862000.0,609.0,Female,Medan,Data Analyst,Bachelor,Unsatisfied
+36.0,48150000.0,4.0,28351000.0,715.0,Female,Surabaya,Software Engineer,Bachelor,Satisfied
+30.0,3800000.0,9.0,1785000.0,671.0,Male,Jakarta,Doctor,Bachelor,Satisfied
+29.0,26180000.0,2.0,12833000.0,697.0,Male,Surabaya,Data Analyst,Master,
+30.0,6630000.0,6.0,2696000.0,674.0,Male,Surabaya,Entrepreneur,Bachelor,
+37.0,15780000.0,5.0,5738000.0,659.0,Female,Bandung,Teacher,Bachelor,
+41.0,12650000.0,3.0,4175000.0,716.0,Male,Jakarta,Entrepreneur,Doctorate,
+41.0,8520000.0,3.0,4686000.0,650.0,Female,Surabaya,Entrepreneur,High School,Very Satisfied
+46.0,11550000.0,2.0,4258000.0,561.0,Male,Surabaya,Marketing,Master,Satisfied
+38.0,16150000.0,4.0,8746000.0,539.0,Male,Yogyakarta,Teacher,Bachelor,Neutral
+53.0,6610000.0,3.0,2886000.0,694.0,Female,Surabaya,Data Analyst,Bachelor,Neutral
+35.0,5880000.0,1.0,2620000.0,646.0,Male,Bandung,Entrepreneur,Bachelor,Unsatisfied
+65.0,10110000.0,5.0,4693000.0,550.0,Male,Bandung,Data Analyst,Bachelor,Satisfied
+44.0,13400000.0,4.0,5745000.0,688.0,Male,Jakarta,Doctor,Bachelor,Satisfied
+29.0,12120000.0,7.0,4063000.0,673.0,Male,Surabaya,Marketing,Bachelor,Unsatisfied
+27.0,13090000.0,4.0,5346000.0,643.0,Male,Medan,Data Analyst,Bachelor,Unsatisfied
+43.0,6930000.0,7.0,3689000.0,699.0,Male,Surabaya,Teacher,High School,Neutral
+36.0,13720000.0,4.0,7313000.0,779.0,Male,Yogyakarta,Entrepreneur,High School,Very Satisfied
+45.0,4270000.0,3.0,1709000.0,776.0,Male,Jakarta,Doctor,Doctorate,Satisfied
+43.0,8220000.0,0.0,3790000.0,691.0,Female,Jakarta,Teacher,Bachelor,Satisfied
+37.0,3530000.0,4.0,1298000.0,674.0,Female,Medan,Marketing,Doctorate,Neutral
+30.0,5850000.0,1.0,2186000.0,692.0,Female,Medan,Doctor,High School,Satisfied
+23.0,6240000.0,3.0,1922000.0,703.0,Female,Yogyakarta,Doctor,Bachelor,Neutral
+34.0,6530000.0,3.0,4009000.0,660.0,Male,Bandung,Doctor,Bachelor,Satisfied
+47.0,10630000.0,2.0,3973000.0,693.0,Male,Yogyakarta,Entrepreneur,Master,Very Unsatisfied
+40.0,6450000.0,5.0,2449000.0,562.0,Male,Medan,Software Engineer,Master,Neutral
+26.0,7070000.0,5.0,2813000.0,686.0,Male,Medan,Doctor,High School,Neutral
+40.0,5130000.0,5.0,1768000.0,716.0,Male,Surabaya,Teacher,Master,Neutral
+42.0,6300000.0,3.0,3300000.0,643.0,Male,Surabaya,Teacher,High School,Very Satisfied
+29.0,5050000.0,4.0,1648000.0,673.0,Female,Yogyakarta,Marketing,Bachelor,Unsatisfied
+40.0,3960000.0,0.0,1374000.0,597.0,Female,Surabaya,Data Analyst,Doctorate,Neutral
+39.0,9050000.0,3.0,4757000.0,586.0,Male,Surabaya,Data Analyst,Master,Satisfied
+27.0,10120000.0,3.0,4239000.0,696.0,Female,Surabaya,Software Engineer,Doctorate,Very Satisfied
+42.0,9300000.0,8.0,5094000.0,625.0,Female,Surabaya,Entrepreneur,Bachelor,Neutral
+44.0,7240000.0,4.0,3585000.0,547.0,Female,Surabaya,Entrepreneur,High School,Satisfied
+49.0,6370000.0,4.0,2482000.0,597.0,Male,Jakarta,Doctor,High School,Very Satisfied
+49.0,15440000.0,4.0,8149000.0,608.0,Male,Medan,Software Engineer,Bachelor,Neutral
+24.0,7890000.0,2.0,2688000.0,738.0,Male,Surabaya,Marketing,Master,Neutral
+29.0,7410000.0,5.0,3614000.0,693.0,Male,Surabaya,Marketing,High School,Neutral
+43.0,3660000.0,2.0,1658000.0,615.0,Female,Jakarta,Data Analyst,Bachelor,Satisfied
+43.0,6000000.0,5.0,2363000.0,636.0,Male,Jakarta,Marketing,Bachelor,Very Unsatisfied
+43.0,6370000.0,3.0,3258000.0,778.0,Male,Jakarta,Doctor,Bachelor,Neutral
+75.0,6550000.0,4.0,3963000.0,750.0,Female,Bandung,Teacher,Bachelor,Satisfied
+44.0,8710000.0,6.0,5658000.0,596.0,Female,Jakarta,Marketing,Bachelor,Satisfied
+49.0,8080000.0,3.0,4143000.0,767.0,Male,Yogyakarta,Software Engineer,Master,Neutral
+48.0,9120000.0,9.0,4028000.0,674.0,Female,Jakarta,Doctor,High School,Satisfied
+45.0,12190000.0,4.0,4618000.0,740.0,Male,Jakarta,Marketing,Master,Unsatisfied
+35.0,13560000.0,4.0,5288000.0,668.0,Male,Jakarta,Entrepreneur,High School,Neutral
+46.0,11100000.0,1.0,5193000.0,769.0,Male,Jakarta,Marketing,High School,Satisfied
+30.0,22180000.0,7.0,9505000.0,593.0,Female,Bandung,Entrepreneur,Bachelor,Very Satisfied
+36.0,3610000.0,4.0,2238000.0,661.0,Female,Medan,Doctor,Master,Neutral
+33.0,4810000.0,4.0,2063000.0,771.0,Male,Bandung,Marketing,Bachelor,Very Satisfied
+39.0,3550000.0,4.0,1529000.0,501.0,Male,Jakarta,Entrepreneur,Bachelor,Satisfied
+61.0,9760000.0,3.0,4238000.0,677.0,Male,Jakarta,Teacher,Bachelor,Very Unsatisfied
+19.0,17200000.0,1.0,10196000.0,650.0,Male,Surabaya,Data Analyst,Bachelor,Satisfied
+45.0,5170000.0,3.0,2729000.0,731.0,Male,Yogyakarta,Doctor,Master,Very Unsatisfied
+22.0,19210000.0,9.0,9892000.0,760.0,Male,Jakarta,Entrepreneur,Master,Very Satisfied
+33.0,3870000.0,2.0,1614000.0,735.0,Female,Bandung,Software Engineer,High School,Very Satisfied
+49.0,19850000.0,7.0,11637000.0,698.0,Female,Surabaya,Marketing,Bachelor,Neutral
+39.0,6100000.0,2.0,1912000.0,683.0,Male,Jakarta,Entrepreneur,Master,Neutral
+27.0,4140000.0,5.0,2504000.0,654.0,Male,Surabaya,Entrepreneur,Bachelor,Neutral
+31.0,7490000.0,0.0,3591000.0,696.0,Male,Jakarta,Entrepreneur,Bachelor,Neutral
+45.0,5280000.0,3.0,2320000.0,789.0,Male,Medan,Data Analyst,High School,Neutral
+31.0,5510000.0,9.0,2612000.0,618.0,Female,Jakarta,Software Engineer,Bachelor,Neutral
+40.0,5700000.0,6.0,3041000.0,650.0,Female,Bandung,Software Engineer,High School,Satisfied
+38.0,13250000.0,8.0,4034000.0,674.0,Male,Jakarta,Teacher,Master,Unsatisfied
+31.0,8150000.0,5.0,4931000.0,755.0,Male,Yogyakarta,Data Analyst,Bachelor,Satisfied
+59.0,5740000.0,5.0,2619000.0,697.0,Female,Jakarta,Entrepreneur,Bachelor,Satisfied
+44.0,9150000.0,5.0,3843000.0,754.0,Male,Medan,Doctor,Master,Neutral
+18.0,11060000.0,2.0,3853000.0,758.0,Female,Medan,Data Analyst,High School,Very Satisfied
+40.0,5410000.0,9.0,2455000.0,724.0,Male,Yogyakarta,Data Analyst,Bachelor,Neutral
+31.0,6700000.0,5.0,3174000.0,600.0,Female,Surabaya,Software Engineer,Bachelor,Very Unsatisfied
+47.0,4280000.0,1.0,1889000.0,805.0,Female,Bandung,Teacher,Bachelor,Satisfied
+30.0,4700000.0,4.0,2526000.0,786.0,Female,Surabaya,Teacher,Master,Neutral
+37.0,10360000.0,5.0,4634000.0,685.0,Female,Jakarta,Data Analyst,Master,Satisfied
+43.0,4700000.0,3.0,2992000.0,576.0,Male,Surabaya,Data Analyst,High School,Very Satisfied
+47.0,7970000.0,5.0,4063000.0,563.0,Female,Jakarta,Marketing,Master,Very Satisfied
+26.0,10910000.0,3.0,6356000.0,699.0,Female,Yogyakarta,Entrepreneur,Bachelor,Satisfied
+35.0,4180000.0,4.0,1414000.0,627.0,Male,Jakarta,Software Engineer,Master,Satisfied
+33.0,8530000.0,3.0,3745000.0,551.0,Male,Surabaya,Entrepreneur,Bachelor,Unsatisfied
+31.0,5280000.0,1.0,2206000.0,562.0,Male,Bandung,Doctor,Bachelor,Unsatisfied
+56.0,23270000.0,5.0,11619000.0,645.0,Male,Surabaya,Doctor,Bachelor,Satisfied
+42.0,7460000.0,3.0,4486000.0,695.0,Male,Bandung,Teacher,Bachelor,Neutral
+25.0,13340000.0,2.0,4368000.0,785.0,Female,Jakarta,Software Engineer,Bachelor,Neutral
+47.0,8290000.0,2.0,2698000.0,716.0,Male,Surabaya,Entrepreneur,Bachelor,Neutral
+59.0,3770000.0,4.0,2253000.0,651.0,Female,Jakarta,Teacher,Master,Satisfied
+48.0,9520000.0,2.0,3565000.0,708.0,Male,Yogyakarta,Doctor,Bachelor,Unsatisfied
+23.0,21650000.0,4.0,11562000.0,702.0,Male,Bandung,Data Analyst,Doctorate,Satisfied
+33.0,9020000.0,3.0,4420000.0,735.0,Male,Yogyakarta,Software Engineer,Bachelor,Unsatisfied
+51.0,13760000.0,2.0,8139000.0,677.0,Male,Jakarta,Software Engineer,Bachelor,Very Unsatisfied
+31.0,16440000.0,3.0,5652000.0,758.0,Male,Jakarta,Entrepreneur,Doctorate,Neutral
+42.0,5050000.0,10.0,1744000.0,742.0,Male,Jakarta,Marketing,Bachelor,Neutral
+46.0,4930000.0,4.0,2440000.0,686.0,Male,Jakarta,Entrepreneur,Master,Very Satisfied
+29.0,9160000.0,5.0,5782000.0,671.0,Female,Jakarta,Data Analyst,Master,Very Unsatisfied
+37.0,6680000.0,3.0,2974000.0,749.0,Female,Bandung,Data Analyst,Bachelor,Unsatisfied
+18.0,14490000.0,4.0,6005000.0,626.0,Male,Jakarta,Teacher,Bachelor,Satisfied
+28.0,17320000.0,4.0,8874000.0,567.0,Female,Surabaya,Software Engineer,High School,Neutral
+35.0,6120000.0,3.0,3829000.0,567.0,Female,Medan,Teacher,Bachelor,Very Unsatisfied
+26.0,5120000.0,6.0,3036000.0,620.0,Male,Bandung,Data Analyst,Bachelor,Very Unsatisfied
+54.0,12600000.0,3.0,8170000.0,729.0,Female,Surabaya,Marketing,Master,Very Satisfied
+24.0,5430000.0,5.0,1672000.0,648.0,Female,Surabaya,Software Engineer,Bachelor,Satisfied
+34.0,13880000.0,3.0,4712000.0,695.0,Male,Surabaya,Data Analyst,Bachelor,Neutral
+39.0,6810000.0,0.0,3496000.0,643.0,Male,Jakarta,Marketing,Bachelor,Neutral
+52.0,10110000.0,6.0,5937000.0,643.0,Male,Bandung,Entrepreneur,Doctorate,Neutral
+24.0,4100000.0,3.0,1639000.0,603.0,Male,Surabaya,Doctor,High School,Neutral
+50.0,9370000.0,2.0,3595000.0,673.0,Female,Medan,Data Analyst,High School,Satisfied
+38.0,7110000.0,5.0,4091000.0,667.0,Male,Bandung,Doctor,Bachelor,Very Satisfied
+28.0,8800000.0,6.0,2814000.0,711.0,Female,Bandung,Teacher,Doctorate,Unsatisfied
+43.0,4600000.0,1.0,1975000.0,702.0,Female,Surabaya,Doctor,Doctorate,Satisfied
+40.0,11510000.0,6.0,5491000.0,665.0,Female,Jakarta,Data Analyst,Bachelor,Unsatisfied
+32.0,15420000.0,2.0,7650000.0,567.0,Female,Bandung,Doctor,Master,Unsatisfied
+39.0,4970000.0,2.0,2758000.0,760.0,Male,Surabaya,Software Engineer,Bachelor,Very Unsatisfied
+34.0,4100000.0,2.0,1739000.0,674.0,Male,Jakarta,Data Analyst,Doctorate,Unsatisfied
+39.0,3640000.0,3.0,1873000.0,686.0,Female,Jakarta,Marketing,High School,Very Satisfied
+45.0,9660000.0,4.0,4877000.0,800.0,Male,Jakarta,Doctor,High School,Neutral
+54.0,9110000.0,3.0,4479000.0,748.0,Male,Bandung,Software Engineer,High School,Very Unsatisfied
+26.0,8250000.0,3.0,4324000.0,713.0,Female,Jakarta,Teacher,Bachelor,Very Satisfied
+59.0,5080000.0,1.0,1985000.0,680.0,Female,Surabaya,Teacher,Master,Very Satisfied
+18.0,6470000.0,4.0,2133000.0,679.0,Male,Surabaya,Doctor,Bachelor,Satisfied
+36.0,8920000.0,7.0,3048000.0,698.0,Female,Surabaya,Teacher,Doctorate,Very Satisfied
+44.0,7620000.0,6.0,2885000.0,711.0,Female,Medan,Marketing,Bachelor,Unsatisfied
+41.0,29930000.0,6.0,14219000.0,808.0,Male,Medan,Data Analyst,High School,Satisfied
+32.0,4380000.0,5.0,2602000.0,850.0,Male,Surabaya,Software Engineer,Bachelor,Satisfied
+36.0,10630000.0,3.0,5798000.0,702.0,Female,Jakarta,Entrepreneur,Bachelor,Very Satisfied
+33.0,6610000.0,2.0,3808000.0,519.0,Male,Surabaya,Doctor,Master,Satisfied
+32.0,6850000.0,5.0,2896000.0,609.0,Male,Bandung,Teacher,Bachelor,Neutral
+46.0,11090000.0,6.0,4898000.0,816.0,Male,Surabaya,Data Analyst,Bachelor,Satisfied
+42.0,10570000.0,0.0,4627000.0,734.0,Female,Bandung,Entrepreneur,Bachelor,Neutral
+31.0,31940000.0,6.0,11727000.0,712.0,Male,Jakarta,Marketing,Bachelor,Neutral
+47.0,4320000.0,3.0,1389000.0,667.0,Male,Bandung,Teacher,Doctorate,Unsatisfied
+41.0,4160000.0,4.0,2108000.0,591.0,Male,Jakarta,Teacher,High School,Very Satisfied
+46.0,11230000.0,4.0,7257000.0,806.0,Female,Bandung,Software Engineer,Master,Neutral
+44.0,8680000.0,3.0,3111000.0,618.0,Male,Jakarta,Marketing,Bachelor,Satisfied
+30.0,5420000.0,10.0,1715000.0,735.0,Female,Bandung,Marketing,Bachelor,Neutral
+32.0,4000000.0,1.0,2291000.0,582.0,Female,Jakarta,Doctor,Doctorate,Very Satisfied
+45.0,4040000.0,5.0,1569000.0,664.0,Male,Surabaya,Entrepreneur,Bachelor,Neutral
+44.0,16980000.0,2.0,10025000.0,754.0,Female,Bandung,Software Engineer,Bachelor,Satisfied
+38.0,4780000.0,2.0,2612000.0,661.0,Female,Jakarta,Doctor,High School,Very Satisfied
+39.0,5840000.0,3.0,3685000.0,652.0,Female,Medan,Software Engineer,Bachelor,Neutral
+51.0,5040000.0,7.0,2233000.0,681.0,Male,Bandung,Marketing,Master,Neutral
+32.0,6130000.0,1.0,3259000.0,580.0,Female,Surabaya,Software Engineer,Bachelor,Satisfied
+43.0,3930000.0,2.0,1818000.0,566.0,Female,Surabaya,Software Engineer,Master,Very Satisfied
+36.0,7890000.0,4.0,4108000.0,734.0,Female,Surabaya,Software Engineer,Bachelor,Satisfied
+36.0,3920000.0,6.0,1793000.0,648.0,Male,Surabaya,Data Analyst,High School,Unsatisfied
+49.0,13170000.0,1.0,4821000.0,733.0,Female,Surabaya,Data Analyst,High School,Very Satisfied
+46.0,5100000.0,4.0,2437000.0,764.0,Male,Bandung,Entrepreneur,Bachelor,Neutral
+46.0,8160000.0,6.0,3958000.0,770.0,Male,Surabaya,Entrepreneur,Doctorate,Satisfied
+51.0,16230000.0,3.0,9474000.0,558.0,Male,Jakarta,Marketing,Bachelor,Satisfied
+38.0,9810000.0,5.0,5468000.0,628.0,Female,Jakarta,Software Engineer,Bachelor,Unsatisfied
+45.0,8070000.0,3.0,4296000.0,720.0,Male,Jakarta,Marketing,Master,Satisfied
+35.0,5850000.0,4.0,1987000.0,721.0,Female,Jakarta,Data Analyst,Master,Satisfied
+41.0,5930000.0,6.0,3275000.0,849.0,Female,Bandung,Software Engineer,High School,Very Satisfied
+37.0,10140000.0,2.0,4818000.0,612.0,Male,Medan,Doctor,Master,Unsatisfied
+39.0,34340000.0,3.0,21048000.0,768.0,Female,Jakarta,Data Analyst,Bachelor,Neutral
+44.0,10010000.0,3.0,6226000.0,708.0,Male,Yogyakarta,Data Analyst,High School,Satisfied
+30.0,8400000.0,4.0,2682000.0,557.0,Male,Surabaya,Data Analyst,Bachelor,Very Unsatisfied
+59.0,11370000.0,9.0,6677000.0,639.0,Female,Yogyakarta,Software Engineer,Bachelor,Unsatisfied
+28.0,7260000.0,6.0,2274000.0,700.0,Female,Bandung,Entrepreneur,Bachelor,Very Satisfied
+26.0,3870000.0,6.0,1658000.0,552.0,Female,Bandung,Teacher,Bachelor,Neutral
+50.0,8460000.0,5.0,4144000.0,524.0,Female,Jakarta,Doctor,High School,Very Satisfied
+46.0,22470000.0,1.0,7906000.0,548.0,Male,Jakarta,Doctor,Master,Unsatisfied
+44.0,4660000.0,0.0,2615000.0,699.0,Male,Jakarta,Marketing,Doctorate,Neutral
+44.0,10530000.0,9.0,3190000.0,644.0,Male,Bandung,Software Engineer,Master,Satisfied
+38.0,4850000.0,2.0,1741000.0,634.0,Male,Jakarta,Entrepreneur,Bachelor,Satisfied
+29.0,8100000.0,5.0,4077000.0,636.0,Male,Medan,Data Analyst,Bachelor,Satisfied
+39.0,4110000.0,4.0,2261000.0,573.0,Male,Jakarta,Teacher,Bachelor,Satisfied
+31.0,7090000.0,2.0,4402000.0,646.0,Male,Medan,Software Engineer,High School,Satisfied
+48.0,11970000.0,4.0,6547000.0,543.0,Male,Jakarta,Software Engineer,Bachelor,Neutral
+37.0,6060000.0,0.0,3243000.0,769.0,Male,Jakarta,Entrepreneur,Bachelor,Neutral
+30.0,10060000.0,3.0,4406000.0,807.0,Female,Jakarta,Teacher,Master,Unsatisfied
+35.0,13020000.0,3.0,3912000.0,506.0,Female,Surabaya,Data Analyst,Bachelor,Satisfied
+42.0,19220000.0,4.0,6574000.0,645.0,Female,Jakarta,Software Engineer,Bachelor,Neutral
+32.0,5100000.0,2.0,2484000.0,650.0,Male,Bandung,Doctor,Bachelor,Neutral
+30.0,6560000.0,1.0,3518000.0,667.0,Female,Jakarta,Doctor,Bachelor,Neutral
+40.0,4490000.0,0.0,2003000.0,755.0,Female,Surabaya,Teacher,Bachelor,Very Unsatisfied
+40.0,32840000.0,2.0,18250000.0,645.0,Male,Medan,Data Analyst,Bachelor,Unsatisfied
+33.0,19200000.0,6.0,9267000.0,673.0,Male,Jakarta,Teacher,Bachelor,Satisfied
+33.0,8160000.0,3.0,2660000.0,850.0,Female,Yogyakarta,Software Engineer,Bachelor,Neutral
+40.0,14570000.0,4.0,5350000.0,672.0,Female,Yogyakarta,Doctor,High School,Very Satisfied
+24.0,7920000.0,4.0,4704000.0,812.0,Female,Jakarta,Marketing,Master,Satisfied
+24.0,9360000.0,2.0,5183000.0,718.0,Female,Jakarta,Teacher,Master,Very Unsatisfied
+31.0,4060000.0,3.0,2489000.0,638.0,Female,Surabaya,Marketing,Bachelor,Satisfied
+36.0,11950000.0,3.0,4077000.0,626.0,Female,Bandung,Marketing,High School,Unsatisfied
+41.0,4320000.0,4.0,2793000.0,679.0,Female,Surabaya,Entrepreneur,Master,Satisfied
+53.0,13990000.0,4.0,5222000.0,596.0,Male,Bandung,Doctor,Bachelor,Very Satisfied
+47.0,12640000.0,1.0,3844000.0,615.0,Female,Bandung,Teacher,Bachelor,Satisfied
+36.0,10900000.0,5.0,7075000.0,648.0,Male,Jakarta,Marketing,High School,Satisfied
+38.0,3720000.0,3.0,1482000.0,702.0,Female,Medan,Software Engineer,Bachelor,Neutral
+28.0,5670000.0,6.0,3027000.0,817.0,Female,Bandung,Entrepreneur,Master,Neutral
+38.0,5330000.0,3.0,1929000.0,644.0,Female,Surabaya,Data Analyst,Master,Very Satisfied
+35.0,6180000.0,8.0,3109000.0,715.0,Female,Medan,Entrepreneur,Bachelor,Unsatisfied
+41.0,4050000.0,4.0,2496000.0,558.0,Male,Bandung,Data Analyst,Bachelor,Neutral
+30.0,20080000.0,8.0,8274000.0,760.0,Male,Jakarta,Doctor,High School,Neutral
+43.0,8340000.0,4.0,4458000.0,551.0,Male,Surabaya,Teacher,High School,Satisfied
+53.0,5690000.0,4.0,2081000.0,740.0,Female,Surabaya,Teacher,Doctorate,Neutral
+37.0,6530000.0,5.0,3387000.0,674.0,Female,Jakarta,Data Analyst,Bachelor,Very Satisfied
+42.0,7060000.0,5.0,2949000.0,671.0,Female,Yogyakarta,Software Engineer,Bachelor,Unsatisfied
+45.0,9010000.0,4.0,3369000.0,657.0,Male,Jakarta,Data Analyst,Master,Neutral
+34.0,7850000.0,2.0,3215000.0,582.0,Male,Bandung,Data Analyst,Master,Satisfied
+40.0,18610000.0,3.0,6748000.0,586.0,Female,Surabaya,Teacher,Master,Unsatisfied
+38.0,7620000.0,5.0,4691000.0,743.0,Male,Jakarta,Marketing,High School,Satisfied
+39.0,32590000.0,0.0,14308000.0,681.0,Female,Yogyakarta,Software Engineer,High School,Unsatisfied
+30.0,14940000.0,2.0,5765000.0,657.0,Female,Medan,Teacher,Bachelor,Very Unsatisfied
+38.0,4900000.0,4.0,2239000.0,713.0,Female,Surabaya,Entrepreneur,Bachelor,Unsatisfied
+43.0,19510000.0,4.0,8042000.0,688.0,Male,Jakarta,Data Analyst,Doctorate,Very Satisfied
+53.0,4240000.0,3.0,2377000.0,621.0,Female,Jakarta,Marketing,Bachelor,Satisfied
+48.0,13700000.0,4.0,8767000.0,850.0,Male,Surabaya,Software Engineer,Doctorate,Satisfied
+60.0,6370000.0,9.0,2888000.0,736.0,Female,Jakarta,Doctor,Bachelor,Neutral
+30.0,16120000.0,0.0,9694000.0,690.0,Male,Surabaya,Software Engineer,Master,Satisfied
+47.0,15650000.0,4.0,7795000.0,641.0,Male,Yogyakarta,Software Engineer,Bachelor,Neutral
+40.0,13340000.0,0.0,4736000.0,751.0,Female,Surabaya,Data Analyst,Doctorate,Very Satisfied
+60.0,12860000.0,5.0,6966000.0,621.0,Male,Medan,Data Analyst,High School,Satisfied
+30.0,5680000.0,4.0,2725000.0,615.0,Female,Bandung,Doctor,Bachelor,Satisfied
+30.0,4010000.0,4.0,2116000.0,807.0,Female,Surabaya,Doctor,Master,Very Unsatisfied
+32.0,6590000.0,3.0,4029000.0,682.0,Female,Medan,Doctor,Bachelor,Satisfied
+18.0,4640000.0,5.0,2107000.0,623.0,Female,Surabaya,Teacher,Bachelor,Neutral
+33.0,10620000.0,4.0,6536000.0,680.0,Male,Medan,Teacher,Doctorate,Very Satisfied
+30.0,6050000.0,2.0,3405000.0,744.0,Female,Jakarta,Data Analyst,Bachelor,Neutral
+40.0,25780000.0,7.0,12143000.0,727.0,Male,Jakarta,Data Analyst,Bachelor,Neutral
+41.0,9650000.0,5.0,4932000.0,753.0,Male,Medan,Doctor,High School,Neutral
+57.0,13870000.0,2.0,5742000.0,586.0,Female,Surabaya,Teacher,Master,Neutral
+48.0,4350000.0,8.0,2803000.0,751.0,Male,Medan,Marketing,Bachelor,Unsatisfied
+32.0,15380000.0,1.0,8206000.0,667.0,Female,Yogyakarta,Teacher,Bachelor,Very Satisfied
+29.0,18860000.0,4.0,5947000.0,687.0,Male,Jakarta,Data Analyst,High School,Satisfied
+43.0,7510000.0,4.0,3112000.0,771.0,Female,Surabaya,Teacher,Bachelor,Very Satisfied
+25.0,9090000.0,1.0,4710000.0,733.0,Female,Surabaya,Data Analyst,High School,Satisfied
+56.0,12180000.0,3.0,3894000.0,706.0,Male,Bandung,Doctor,High School,Neutral
+50.0,4650000.0,3.0,1434000.0,531.0,Female,Medan,Doctor,Bachelor,Satisfied
+33.0,7690000.0,6.0,3518000.0,677.0,Female,Jakarta,Doctor,High School,Unsatisfied
+21.0,6550000.0,4.0,2728000.0,621.0,Male,Surabaya,Marketing,High School,Very Satisfied
+52.0,4450000.0,4.0,2018000.0,733.0,Male,Bandung,Marketing,Bachelor,Neutral
+37.0,6250000.0,1.0,2450000.0,754.0,Female,Jakarta,Data Analyst,High School,Neutral
+50.0,3920000.0,6.0,1402000.0,657.0,Male,Medan,Software Engineer,Bachelor,Neutral
+22.0,3660000.0,3.0,1981000.0,630.0,Male,Bandung,Entrepreneur,High School,Neutral
+32.0,4370000.0,3.0,2098000.0,797.0,Female,Yogyakarta,Marketing,Bachelor,Neutral
+38.0,23300000.0,3.0,8622000.0,635.0,Female,Jakarta,Data Analyst,Bachelor,Neutral
+38.0,8280000.0,4.0,3410000.0,590.0,Female,Jakarta,Teacher,Master,Satisfied
+33.0,23760000.0,6.0,12049000.0,618.0,Female,Surabaya,Doctor,Bachelor,Satisfied
+44.0,6900000.0,7.0,2244000.0,638.0,Female,Jakarta,Doctor,High School,Neutral
+27.0,5740000.0,2.0,2018000.0,615.0,Male,Yogyakarta,Doctor,High School,Neutral
+37.0,7730000.0,3.0,2517000.0,743.0,Male,Jakarta,Data Analyst,Bachelor,Very Satisfied
+39.0,6970000.0,3.0,4073000.0,515.0,Male,Bandung,Doctor,Doctorate,Very Unsatisfied
+43.0,4170000.0,4.0,2349000.0,614.0,Female,Surabaya,Marketing,Bachelor,Very Satisfied
+45.0,9640000.0,4.0,5434000.0,676.0,Male,Surabaya,Teacher,Bachelor,Unsatisfied
+27.0,4960000.0,3.0,2732000.0,696.0,Male,Jakarta,Doctor,High School,Satisfied
+23.0,9300000.0,5.0,4969000.0,807.0,Male,Bandung,Data Analyst,Bachelor,Satisfied
+51.0,9800000.0,5.0,4576000.0,796.0,Male,Surabaya,Teacher,Bachelor,Satisfied
+41.0,4490000.0,4.0,2356000.0,560.0,Male,Jakarta,Doctor,Bachelor,Very Satisfied
+31.0,3880000.0,8.0,1216000.0,537.0,Female,Yogyakarta,Software Engineer,Master,Unsatisfied
+54.0,12610000.0,4.0,6526000.0,682.0,Male,Jakarta,Doctor,Bachelor,Neutral
+39.0,7190000.0,3.0,4115000.0,630.0,Male,Surabaya,Entrepreneur,High School,Satisfied
+50.0,3860000.0,5.0,1834000.0,591.0,Male,Surabaya,Marketing,Bachelor,Satisfied
+39.0,35130000.0,9.0,14935000.0,681.0,Female,Jakarta,Teacher,Bachelor,Unsatisfied
+59.0,3860000.0,5.0,1533000.0,697.0,Female,Yogyakarta,Marketing,Bachelor,Satisfied
+56.0,10630000.0,2.0,5581000.0,617.0,Male,Surabaya,Software Engineer,Bachelor,Neutral
+36.0,28190000.0,5.0,15293000.0,633.0,Female,Jakarta,Software Engineer,Bachelor,Unsatisfied
+48.0,5140000.0,2.0,3109000.0,623.0,Male,Surabaya,Entrepreneur,Bachelor,Satisfied
+44.0,4420000.0,2.0,1856000.0,649.0,Female,Bandung,Marketing,Master,Unsatisfied
+52.0,4280000.0,5.0,2437000.0,721.0,Male,Surabaya,Teacher,Bachelor,Satisfied
+28.0,5670000.0,2.0,2815000.0,599.0,Female,Bandung,Software Engineer,Master,Very Unsatisfied
+45.0,4140000.0,5.0,2521000.0,632.0,Female,Jakarta,Software Engineer,Bachelor,Neutral
+49.0,10570000.0,1.0,5124000.0,650.0,Female,Jakarta,Doctor,Bachelor,Satisfied
+20.0,3890000.0,3.0,1872000.0,679.0,Male,Medan,Entrepreneur,Master,Satisfied
+26.0,7770000.0,3.0,3903000.0,701.0,Male,Jakarta,Data Analyst,Bachelor,Neutral
+18.0,37780000.0,2.0,21242000.0,833.0,Female,Medan,Software Engineer,Master,Neutral
+35.0,13590000.0,6.0,8666000.0,723.0,Male,Jakarta,Teacher,Master,Unsatisfied
+45.0,9230000.0,2.0,3007000.0,725.0,Female,Medan,Teacher,High School,Neutral
+53.0,5690000.0,0.0,1813000.0,660.0,Female,Surabaya,Doctor,Bachelor,Very Satisfied
+39.0,9370000.0,5.0,5886000.0,607.0,Female,Bandung,Teacher,High School,Very Satisfied
+54.0,7990000.0,2.0,3879000.0,640.0,Male,Jakarta,Doctor,Doctorate,Unsatisfied
+24.0,6830000.0,5.0,3519000.0,627.0,Female,Jakarta,Software Engineer,Master,Very Unsatisfied
+21.0,4340000.0,1.0,2035000.0,709.0,Female,Jakarta,Software Engineer,High School,Very Satisfied
+37.0,16560000.0,5.0,5511000.0,556.0,Female,Jakarta,Software Engineer,High School,Satisfied
+42.0,7080000.0,5.0,4027000.0,724.0,Male,Jakarta,Software Engineer,Bachelor,Satisfied
+38.0,4800000.0,5.0,2695000.0,671.0,Male,Surabaya,Data Analyst,Bachelor,Satisfied
+18.0,6250000.0,8.0,2557000.0,735.0,Male,Surabaya,Entrepreneur,High School,Neutral
+37.0,6710000.0,4.0,2732000.0,626.0,Male,Medan,Entrepreneur,Bachelor,Neutral
+25.0,14050000.0,5.0,8335000.0,612.0,Female,Bandung,Data Analyst,Bachelor,Very Satisfied
+45.0,11440000.0,6.0,3722000.0,649.0,Female,Bandung,Software Engineer,High School,Satisfied
+42.0,12300000.0,5.0,7483000.0,648.0,Male,Surabaya,Teacher,Master,Unsatisfied
+29.0,3570000.0,4.0,1392000.0,740.0,Female,Surabaya,Doctor,Master,Unsatisfied
+33.0,6730000.0,2.0,3416000.0,740.0,Male,Surabaya,Entrepreneur,Master,Unsatisfied
+27.0,7440000.0,7.0,4669000.0,823.0,Male,Medan,Marketing,Master,Satisfied
+37.0,3620000.0,2.0,1945000.0,643.0,Male,Jakarta,Doctor,Bachelor,Neutral
+48.0,5310000.0,4.0,2363000.0,429.0,Male,Jakarta,Marketing,Bachelor,Very Unsatisfied
+28.0,12070000.0,3.0,6534000.0,649.0,Female,Bandung,Marketing,Bachelor,Very Satisfied
+43.0,4380000.0,4.0,1841000.0,697.0,Male,Jakarta,Software Engineer,Master,Unsatisfied
+33.0,8100000.0,5.0,3216000.0,734.0,Female,Medan,Marketing,Doctorate,Very Unsatisfied
+30.0,4950000.0,2.0,3212000.0,703.0,Male,Medan,Software Engineer,Master,Neutral
+37.0,3570000.0,7.0,2009000.0,643.0,Female,Jakarta,Data Analyst,Master,Neutral
+28.0,5160000.0,2.0,2712000.0,809.0,Male,Jakarta,Teacher,Bachelor,Neutral
+32.0,25850000.0,5.0,10969000.0,602.0,Male,Surabaya,Marketing,Bachelor,Very Satisfied
+26.0,13200000.0,1.0,4187000.0,659.0,Male,Bandung,Teacher,Bachelor,Very Satisfied
+58.0,22750000.0,3.0,7072000.0,599.0,Male,Jakarta,Software Engineer,High School,Neutral
+38.0,7510000.0,1.0,3710000.0,681.0,Male,Bandung,Marketing,High School,Neutral
+31.0,4200000.0,4.0,2380000.0,799.0,Female,Surabaya,Doctor,Bachelor,Satisfied
+40.0,8260000.0,5.0,4032000.0,669.0,Female,Jakarta,Data Analyst,Bachelor,Neutral
+37.0,7130000.0,5.0,4237000.0,670.0,Female,Jakarta,Entrepreneur,Bachelor,Very Unsatisfied
+36.0,14660000.0,3.0,4570000.0,553.0,Female,Bandung,Data Analyst,Bachelor,Very Satisfied
+44.0,4120000.0,4.0,1765000.0,658.0,Male,Jakarta,Marketing,Bachelor,Unsatisfied
+46.0,7520000.0,4.0,2880000.0,766.0,Male,Medan,Data Analyst,Bachelor,Unsatisfied
+33.0,4480000.0,9.0,2045000.0,661.0,Female,Surabaya,Entrepreneur,Bachelor,Neutral
+32.0,5860000.0,5.0,1906000.0,656.0,Female,Surabaya,Doctor,Bachelor,Neutral
+35.0,11520000.0,5.0,7303000.0,763.0,Female,Medan,Teacher,Master,Very Unsatisfied
+18.0,7380000.0,7.0,2791000.0,656.0,Female,Medan,Doctor,Bachelor,Unsatisfied
+23.0,6330000.0,3.0,3942000.0,777.0,Male,Surabaya,Data Analyst,Bachelor,Neutral
+52.0,6510000.0,2.0,2923000.0,584.0,Male,Jakarta,Entrepreneur,Master,Satisfied
+54.0,7190000.0,7.0,4637000.0,731.0,Male,Bandung,Teacher,Master,Unsatisfied
+36.0,12720000.0,7.0,6283000.0,803.0,Male,Surabaya,Entrepreneur,Master,Neutral
+44.0,16860000.0,5.0,10551000.0,756.0,Male,Jakarta,Doctor,Bachelor,Satisfied
+41.0,22150000.0,6.0,6686000.0,540.0,Male,Yogyakarta,Software Engineer,High School,Very Satisfied
+69.0,12780000.0,5.0,7181000.0,632.0,Female,Jakarta,Software Engineer,Bachelor,Neutral
+49.0,5770000.0,2.0,3555000.0,662.0,Female,Jakarta,Teacher,Bachelor,Unsatisfied
+37.0,10490000.0,5.0,3660000.0,756.0,Female,Jakarta,Teacher,Master,Neutral
+28.0,6950000.0,7.0,2319000.0,580.0,Female,Bandung,Teacher,Bachelor,Satisfied
+22.0,5260000.0,6.0,2360000.0,604.0,Male,Bandung,Software Engineer,High School,Unsatisfied
+40.0,14530000.0,2.0,9107000.0,560.0,Male,Jakarta,Doctor,High School,Neutral
+30.0,3740000.0,6.0,1832000.0,618.0,Female,Jakarta,Teacher,High School,Very Unsatisfied
+24.0,17420000.0,3.0,8442000.0,586.0,Male,Jakarta,Software Engineer,Bachelor,Very Unsatisfied
+32.0,7210000.0,5.0,2519000.0,800.0,Male,Bandung,Teacher,Master,Neutral
+27.0,9580000.0,4.0,2877000.0,631.0,Male,Jakarta,Teacher,Master,Neutral
+55.0,9960000.0,2.0,5812000.0,732.0,Male,Yogyakarta,Entrepreneur,Doctorate,Satisfied
+47.0,17030000.0,5.0,5631000.0,681.0,Male,Jakarta,Teacher,Bachelor,Satisfied
+38.0,9570000.0,6.0,4994000.0,680.0,Male,Yogyakarta,Software Engineer,Bachelor,Neutral
+53.0,9210000.0,6.0,5711000.0,636.0,Male,Jakarta,Doctor,Bachelor,Neutral
+39.0,3910000.0,3.0,1459000.0,738.0,Female,Bandung,Software Engineer,Bachelor,Neutral
+29.0,7880000.0,4.0,4199000.0,692.0,Male,Jakarta,Software Engineer,Master,Very Unsatisfied
+53.0,4480000.0,4.0,1467000.0,687.0,Male,Jakarta,Teacher,Bachelor,Very Satisfied
+43.0,11520000.0,5.0,5890000.0,635.0,Male,Medan,Entrepreneur,Master,Very Satisfied
+28.0,7810000.0,2.0,2791000.0,648.0,Male,Medan,Marketing,Bachelor,Unsatisfied
+36.0,10340000.0,1.0,5765000.0,724.0,Female,Surabaya,Marketing,High School,Unsatisfied
+29.0,3760000.0,1.0,1524000.0,697.0,Female,Bandung,Marketing,High School,Unsatisfied
+24.0,4030000.0,7.0,1863000.0,689.0,Female,Surabaya,Software Engineer,Bachelor,Satisfied
+47.0,11060000.0,7.0,5638000.0,623.0,Male,Medan,Teacher,Master,Satisfied
+57.0,3950000.0,5.0,1422000.0,826.0,Female,Jakarta,Marketing,Bachelor,Satisfied
+24.0,3940000.0,5.0,2205000.0,644.0,Female,Surabaya,Data Analyst,Master,Satisfied
+44.0,3570000.0,2.0,1449000.0,678.0,Male,Surabaya,Data Analyst,Master,Neutral
+31.0,22310000.0,1.0,11865000.0,666.0,Female,Surabaya,Data Analyst,Bachelor,Satisfied
+33.0,11530000.0,6.0,4098000.0,827.0,Male,Medan,Doctor,Master,Satisfied
+32.0,6110000.0,3.0,3305000.0,658.0,Female,Jakarta,Teacher,Bachelor,Satisfied
+29.0,5610000.0,3.0,1935000.0,651.0,Female,Jakarta,Software Engineer,Bachelor,Neutral
+38.0,6080000.0,3.0,2729000.0,689.0,Male,Surabaya,Software Engineer,Master,Satisfied
+30.0,12440000.0,2.0,4808000.0,628.0,Female,Bandung,Teacher,Doctorate,Satisfied
+41.0,10000000.0,4.0,5619000.0,688.0,Male,Jakarta,Entrepreneur,Bachelor,Satisfied
+37.0,4730000.0,3.0,1853000.0,850.0,Male,Surabaya,Entrepreneur,Bachelor,Satisfied
+36.0,4650000.0,7.0,2830000.0,702.0,Female,Yogyakarta,Doctor,High School,Satisfied
+29.0,4120000.0,4.0,2522000.0,700.0,Female,Jakarta,Teacher,Bachelor,Satisfied
+32.0,9980000.0,3.0,3680000.0,626.0,Male,Bandung,Entrepreneur,Bachelor,Satisfied
+46.0,12170000.0,5.0,6266000.0,808.0,Male,Bandung,Doctor,Master,Satisfied
+43.0,5350000.0,2.0,1769000.0,825.0,Male,Surabaya,Marketing,Bachelor,Neutral
+28.0,3630000.0,4.0,1586000.0,744.0,Male,Yogyakarta,Marketing,High School,Neutral
+39.0,4010000.0,3.0,2204000.0,729.0,Female,Bandung,Doctor,Bachelor,Very Unsatisfied
+46.0,24130000.0,5.0,12808000.0,662.0,Female,Surabaya,Teacher,Bachelor,Satisfied
+21.0,5600000.0,2.0,2904000.0,709.0,Female,Surabaya,Marketing,Bachelor,Satisfied
+43.0,12300000.0,6.0,4906000.0,617.0,Male,Bandung,Teacher,Bachelor,Very Satisfied
+31.0,9380000.0,3.0,4055000.0,596.0,Female,Surabaya,Entrepreneur,Master,Neutral
+44.0,6390000.0,4.0,2147000.0,568.0,Male,Medan,Marketing,High School,Neutral
+30.0,4880000.0,5.0,2692000.0,711.0,Female,Surabaya,Entrepreneur,Bachelor,Unsatisfied
+20.0,4280000.0,4.0,2039000.0,577.0,Female,Jakarta,Teacher,Master,Very Unsatisfied
+22.0,9230000.0,4.0,5059000.0,643.0,Female,Jakarta,Teacher,Bachelor,Satisfied
+38.0,12440000.0,2.0,4816000.0,675.0,Male,Jakarta,Data Analyst,Bachelor,Neutral
+41.0,9700000.0,3.0,4011000.0,755.0,Male,Jakarta,Doctor,Bachelor,Satisfied
+29.0,8030000.0,2.0,3348000.0,637.0,Male,Medan,Software Engineer,Bachelor,Satisfied
+44.0,3760000.0,1.0,1162000.0,763.0,Female,Bandung,Doctor,Bachelor,Neutral
+21.0,24240000.0,3.0,10165000.0,750.0,Male,Bandung,Teacher,Bachelor,Very Satisfied
+37.0,13120000.0,4.0,7625000.0,600.0,Male,Bandung,Teacher,Master,Neutral
+26.0,5580000.0,4.0,3426000.0,764.0,Male,Medan,Doctor,Master,Neutral
+31.0,26960000.0,7.0,12978000.0,659.0,Female,Surabaya,Teacher,Bachelor,Very Satisfied
+38.0,9030000.0,2.0,4149000.0,643.0,Male,Medan,Entrepreneur,High School,Very Satisfied
+29.0,8740000.0,5.0,2716000.0,659.0,Female,Surabaya,Marketing,High School,Unsatisfied
+34.0,11770000.0,8.0,7153000.0,680.0,Female,Yogyakarta,Teacher,High School,Very Unsatisfied
+48.0,13520000.0,9.0,4118000.0,649.0,Female,Bandung,Doctor,Bachelor,Unsatisfied
+32.0,9910000.0,2.0,6250000.0,617.0,Male,Jakarta,Doctor,High School,Neutral
+46.0,4320000.0,4.0,2036000.0,624.0,Male,Surabaya,Doctor,Bachelor,Very Satisfied
+27.0,5980000.0,4.0,2510000.0,690.0,Male,Surabaya,Data Analyst,Master,Satisfied
+43.0,19290000.0,6.0,12027000.0,668.0,Male,Jakarta,Entrepreneur,Bachelor,Neutral
+52.0,5030000.0,5.0,1552000.0,720.0,Male,Surabaya,Entrepreneur,Master,Very Satisfied
+18.0,6290000.0,1.0,3167000.0,684.0,Female,Jakarta,Data Analyst,Master,Neutral
+30.0,6890000.0,2.0,3391000.0,686.0,Male,Jakarta,Entrepreneur,Bachelor,Neutral
+44.0,6970000.0,6.0,2626000.0,724.0,Female,Yogyakarta,Data Analyst,Master,Very Satisfied
+36.0,9200000.0,5.0,4141000.0,786.0,Male,Bandung,Entrepreneur,Master,Satisfied
+42.0,20700000.0,4.0,10936000.0,789.0,Female,Medan,Data Analyst,Bachelor,Satisfied
+32.0,5150000.0,5.0,2856000.0,781.0,Female,Bandung,Data Analyst,Bachelor,Satisfied
+39.0,4280000.0,4.0,1285000.0,745.0,Female,Surabaya,Entrepreneur,Bachelor,Satisfied
+36.0,4820000.0,4.0,3026000.0,836.0,Female,Surabaya,Data Analyst,Master,Unsatisfied
+50.0,16580000.0,1.0,5929000.0,713.0,Female,Bandung,Entrepreneur,Bachelor,Satisfied
+41.0,9730000.0,8.0,3714000.0,704.0,Female,Yogyakarta,Data Analyst,High School,Very Satisfied
+41.0,5520000.0,2.0,2165000.0,848.0,Male,Jakarta,Doctor,Bachelor,Neutral
+34.0,13660000.0,4.0,4279000.0,476.0,Male,Medan,Software Engineer,Bachelor,Satisfied
+33.0,15360000.0,7.0,5270000.0,664.0,Male,Yogyakarta,Entrepreneur,Bachelor,Neutral
+34.0,14740000.0,6.0,9511000.0,774.0,Male,Bandung,Data Analyst,Master,Very Unsatisfied
+42.0,18570000.0,3.0,7620000.0,754.0,Male,Yogyakarta,Doctor,Bachelor,Satisfied
+34.0,5240000.0,5.0,1783000.0,850.0,Male,Surabaya,Software Engineer,Master,Unsatisfied
+41.0,11940000.0,5.0,4029000.0,688.0,Male,Yogyakarta,Data Analyst,Master,Satisfied
+59.0,7200000.0,3.0,3973000.0,648.0,Male,Bandung,Software Engineer,Bachelor,Unsatisfied
+47.0,14570000.0,3.0,8729000.0,655.0,Male,Jakarta,Entrepreneur,High School,Very Satisfied
+35.0,11320000.0,5.0,4414000.0,704.0,Female,Yogyakarta,Software Engineer,Master,Neutral
+50.0,12490000.0,1.0,3838000.0,802.0,Male,Surabaya,Marketing,Doctorate,Unsatisfied
+34.0,9910000.0,4.0,3747000.0,803.0,Female,Surabaya,Teacher,High School,Unsatisfied
+18.0,4670000.0,2.0,1493000.0,676.0,Male,Surabaya,Marketing,Bachelor,Very Satisfied
+28.0,8230000.0,1.0,2767000.0,699.0,Female,Jakarta,Entrepreneur,Bachelor,Satisfied
+19.0,28570000.0,2.0,12886000.0,634.0,Female,Surabaya,Entrepreneur,Master,Satisfied
+34.0,20120000.0,4.0,7655000.0,642.0,Female,Medan,Software Engineer,Master,Neutral
+38.0,3760000.0,4.0,1807000.0,758.0,Female,Jakarta,Doctor,High School,Neutral
+55.0,4580000.0,2.0,1780000.0,800.0,Male,Jakarta,Data Analyst,Master,Unsatisfied
+41.0,4350000.0,9.0,2737000.0,628.0,Female,Jakarta,Teacher,High School,Satisfied
+36.0,11270000.0,4.0,6954000.0,698.0,Female,Surabaya,Data Analyst,Master,Neutral
+46.0,13720000.0,5.0,6838000.0,662.0,Female,Bandung,Doctor,Bachelor,Very Satisfied
+18.0,4940000.0,4.0,2095000.0,745.0,Female,Medan,Entrepreneur,Bachelor,Satisfied
+40.0,7730000.0,3.0,3350000.0,651.0,Male,Yogyakarta,Teacher,High School,Neutral
+46.0,14520000.0,6.0,6449000.0,536.0,Female,Bandung,Marketing,High School,Unsatisfied
+23.0,11420000.0,5.0,6334000.0,755.0,Male,Jakarta,Entrepreneur,Bachelor,Satisfied
+49.0,8190000.0,5.0,3752000.0,657.0,Female,Yogyakarta,Entrepreneur,Bachelor,Unsatisfied
+41.0,8850000.0,4.0,5309000.0,665.0,Male,Bandung,Software Engineer,High School,Unsatisfied
+34.0,7760000.0,4.0,4892000.0,713.0,Female,Surabaya,Doctor,High School,Unsatisfied
+44.0,5620000.0,3.0,2347000.0,706.0,Male,Bandung,Software Engineer,High School,Satisfied
+61.0,8490000.0,1.0,4213000.0,714.0,Male,Yogyakarta,Software Engineer,Master,Satisfied
+40.0,10510000.0,1.0,3503000.0,558.0,Female,Bandung,Data Analyst,Master,Neutral
+40.0,15900000.0,5.0,5886000.0,722.0,Female,Surabaya,Entrepreneur,High School,Unsatisfied
+33.0,9570000.0,6.0,4256000.0,537.0,Female,Bandung,Doctor,Bachelor,Neutral
+30.0,12090000.0,6.0,4500000.0,738.0,Male,Jakarta,Software Engineer,High School,Satisfied
+46.0,4550000.0,3.0,2761000.0,764.0,Male,Surabaya,Marketing,Master,Unsatisfied
+29.0,7210000.0,6.0,2562000.0,577.0,Female,Surabaya,Teacher,Master,Unsatisfied
+39.0,3560000.0,5.0,1636000.0,705.0,Female,Jakarta,Doctor,Bachelor,Very Satisfied
+33.0,5200000.0,6.0,2662000.0,759.0,Female,Jakarta,Data Analyst,Master,Very Satisfied
+43.0,11280000.0,1.0,6115000.0,646.0,Male,Jakarta,Doctor,Master,Very Satisfied
+41.0,32330000.0,3.0,14034000.0,731.0,Female,Bandung,Entrepreneur,Master,Satisfied
+48.0,4130000.0,3.0,2495000.0,471.0,Male,Medan,Data Analyst,Bachelor,Unsatisfied
+33.0,6580000.0,6.0,3283000.0,762.0,Female,Yogyakarta,Teacher,Bachelor,Unsatisfied
+35.0,13160000.0,2.0,5972000.0,682.0,Male,Jakarta,Marketing,Bachelor,Neutral
+28.0,4870000.0,9.0,1576000.0,661.0,Male,Surabaya,Software Engineer,Bachelor,Neutral
+34.0,8360000.0,4.0,3868000.0,754.0,Female,Yogyakarta,Doctor,Bachelor,Very Satisfied
+42.0,11420000.0,3.0,6706000.0,810.0,Female,Jakarta,Data Analyst,High School,Satisfied
+46.0,9240000.0,5.0,4759000.0,716.0,Male,Bandung,Teacher,Bachelor,Satisfied
+29.0,4750000.0,5.0,2808000.0,801.0,Male,Bandung,Software Engineer,Bachelor,Unsatisfied
+47.0,6130000.0,2.0,2899000.0,564.0,Male,Jakarta,Teacher,Bachelor,Very Satisfied
+52.0,12690000.0,3.0,4333000.0,730.0,Female,Medan,Marketing,Bachelor,Satisfied
+42.0,8350000.0,5.0,2545000.0,670.0,Male,Medan,Software Engineer,Master,Unsatisfied
+57.0,3530000.0,4.0,1434000.0,621.0,Male,Jakarta,Software Engineer,Master,Very Satisfied
+30.0,12090000.0,3.0,6581000.0,535.0,Female,Jakarta,Software Engineer,Bachelor,Neutral
+26.0,3720000.0,1.0,2145000.0,726.0,Female,Jakarta,Data Analyst,Bachelor,Unsatisfied
+20.0,11720000.0,4.0,4729000.0,746.0,Female,Jakarta,Software Engineer,Bachelor,Satisfied
+53.0,4860000.0,2.0,2301000.0,781.0,Male,Surabaya,Teacher,High School,Satisfied
+45.0,22530000.0,8.0,10080000.0,768.0,Female,Surabaya,Data Analyst,Master,Unsatisfied
+37.0,6250000.0,7.0,2773000.0,622.0,Female,Jakarta,Software Engineer,Bachelor,Neutral
+41.0,5880000.0,5.0,2240000.0,777.0,Female,Yogyakarta,Teacher,High School,Very Satisfied
+27.0,4470000.0,2.0,1554000.0,785.0,Female,Surabaya,Teacher,Master,Satisfied
+62.0,5690000.0,4.0,2099000.0,661.0,Male,Jakarta,Doctor,High School,Satisfied
+39.0,16060000.0,6.0,5129000.0,682.0,Female,Jakarta,Teacher,Bachelor,Unsatisfied
+39.0,37150000.0,3.0,13721000.0,610.0,Male,Surabaya,Entrepreneur,High School,Very Unsatisfied
+45.0,6260000.0,2.0,1898000.0,791.0,Male,Surabaya,Marketing,High School,Neutral
+43.0,7070000.0,5.0,3673000.0,567.0,Male,Jakarta,Software Engineer,High School,Neutral
+40.0,11180000.0,5.0,4592000.0,720.0,Male,Jakarta,Software Engineer,High School,Neutral
+30.0,16540000.0,5.0,10596000.0,635.0,Female,Medan,Software Engineer,Bachelor,Unsatisfied
+43.0,8890000.0,5.0,3270000.0,597.0,Female,Yogyakarta,Teacher,Master,Satisfied
+57.0,6480000.0,6.0,2728000.0,539.0,Female,Jakarta,Teacher,Bachelor,Neutral
+51.0,6690000.0,4.0,2845000.0,664.0,Female,Surabaya,Software Engineer,Master,Satisfied
+54.0,10640000.0,0.0,3223000.0,585.0,Male,Bandung,Entrepreneur,Bachelor,Unsatisfied
+33.0,3520000.0,6.0,2090000.0,684.0,Male,Bandung,Data Analyst,Bachelor,Neutral
+28.0,9300000.0,5.0,2894000.0,813.0,Female,Surabaya,Data Analyst,High School,Very Unsatisfied
+37.0,6140000.0,6.0,3862000.0,695.0,Female,Yogyakarta,Marketing,Bachelor,Neutral
+39.0,12990000.0,6.0,7953000.0,830.0,Male,Surabaya,Doctor,Bachelor,Very Unsatisfied
+49.0,4090000.0,2.0,1994000.0,606.0,Female,Surabaya,Marketing,Bachelor,Very Satisfied
+21.0,8820000.0,2.0,4324000.0,584.0,Male,Bandung,Software Engineer,Master,Satisfied
+53.0,7430000.0,3.0,3929000.0,603.0,Male,Yogyakarta,Software Engineer,Bachelor,Neutral
+36.0,9670000.0,6.0,4211000.0,675.0,Male,Medan,Software Engineer,Bachelor,Unsatisfied
+34.0,3900000.0,4.0,2053000.0,850.0,Male,Jakarta,Doctor,Doctorate,Satisfied
+28.0,8700000.0,3.0,2746000.0,555.0,Female,Jakarta,Teacher,Bachelor,Satisfied
+21.0,8450000.0,3.0,2695000.0,726.0,Female,Surabaya,Doctor,Bachelor,Unsatisfied
+46.0,8430000.0,3.0,3878000.0,628.0,Male,Jakarta,Marketing,Master,Satisfied
+39.0,9050000.0,4.0,4456000.0,663.0,Female,Bandung,Teacher,Bachelor,Satisfied
+25.0,10270000.0,2.0,6272000.0,586.0,Female,Medan,Teacher,High School,Satisfied
+25.0,13310000.0,4.0,4481000.0,746.0,Male,Bandung,Marketing,Bachelor,Satisfied
+35.0,5390000.0,4.0,3169000.0,677.0,Male,Yogyakarta,Teacher,Bachelor,Very Satisfied
+55.0,13960000.0,6.0,5214000.0,762.0,Female,Jakarta,Data Analyst,Bachelor,Very Satisfied
+35.0,7640000.0,2.0,3346000.0,693.0,Female,Medan,Marketing,High School,Neutral
+23.0,3980000.0,1.0,1635000.0,535.0,Female,Bandung,Marketing,Master,Satisfied
+36.0,3860000.0,5.0,1699000.0,762.0,Male,Surabaya,Data Analyst,Master,Satisfied
+35.0,5940000.0,5.0,2095000.0,529.0,Female,Bandung,Doctor,Bachelor,Satisfied
+18.0,12720000.0,6.0,6058000.0,540.0,Male,Jakarta,Doctor,Bachelor,Very Satisfied
+37.0,10880000.0,6.0,6317000.0,611.0,Male,Medan,Doctor,Master,Very Unsatisfied
+36.0,12820000.0,1.0,5827000.0,612.0,Male,Surabaya,Teacher,High School,Neutral
+45.0,7870000.0,3.0,3712000.0,785.0,Male,Jakarta,Data Analyst,Bachelor,Neutral
+56.0,6980000.0,3.0,4168000.0,667.0,Male,Bandung,Marketing,Bachelor,Neutral
+49.0,4460000.0,7.0,2440000.0,774.0,Male,Bandung,Marketing,Master,Unsatisfied
+35.0,5890000.0,6.0,2778000.0,637.0,Male,Jakarta,Marketing,High School,Satisfied
+27.0,6920000.0,3.0,2700000.0,704.0,Female,Jakarta,Teacher,Doctorate,Unsatisfied
+64.0,4060000.0,4.0,2475000.0,716.0,Male,Surabaya,Teacher,Bachelor,Satisfied
+39.0,5000000.0,1.0,2510000.0,732.0,Male,Surabaya,Entrepreneur,Bachelor,Satisfied
+38.0,8970000.0,4.0,3385000.0,645.0,Male,Medan,Doctor,Bachelor,Neutral
+38.0,11480000.0,4.0,4525000.0,652.0,Male,Yogyakarta,Entrepreneur,High School,Neutral
+40.0,41930000.0,1.0,24365000.0,658.0,Female,Surabaya,Entrepreneur,Master,Satisfied
+37.0,19730000.0,2.0,6224000.0,556.0,Male,Bandung,Teacher,Doctorate,Satisfied
+32.0,9670000.0,6.0,6259000.0,674.0,Female,Surabaya,Doctor,Bachelor,Very Satisfied
+33.0,6780000.0,4.0,2343000.0,651.0,Male,Bandung,Doctor,Doctorate,Very Satisfied
+38.0,9570000.0,2.0,5537000.0,724.0,Male,Jakarta,Marketing,Master,Very Satisfied
+33.0,12740000.0,7.0,5582000.0,687.0,Female,Surabaya,Teacher,Bachelor,Satisfied
+31.0,4260000.0,5.0,2012000.0,780.0,Female,Bandung,Doctor,Bachelor,Very Satisfied
+39.0,6660000.0,4.0,4051000.0,685.0,Male,Jakarta,Entrepreneur,Bachelor,Satisfied
+35.0,14490000.0,6.0,6441000.0,638.0,Female,Bandung,Data Analyst,Bachelor,Very Satisfied
+53.0,6410000.0,7.0,3129000.0,684.0,Male,Medan,Data Analyst,High School,Very Unsatisfied
+18.0,8590000.0,3.0,2725000.0,734.0,Female,Surabaya,Teacher,Bachelor,Very Satisfied
+49.0,8820000.0,5.0,2653000.0,547.0,Female,Surabaya,Marketing,High School,Neutral
+50.0,4720000.0,6.0,1820000.0,626.0,Female,Medan,Marketing,Master,Satisfied
+18.0,6200000.0,2.0,3337000.0,628.0,Female,Bandung,Doctor,Master,Unsatisfied
+35.0,5940000.0,5.0,2034000.0,711.0,Male,Jakarta,Teacher,Bachelor,Neutral
+34.0,3660000.0,2.0,1244000.0,720.0,Female,Jakarta,Data Analyst,Bachelor,Neutral
+24.0,3650000.0,3.0,1620000.0,688.0,Male,Bandung,Entrepreneur,Bachelor,Neutral
+30.0,14190000.0,1.0,7474000.0,494.0,Male,Surabaya,Doctor,Bachelor,Unsatisfied
+27.0,5410000.0,2.0,2971000.0,556.0,Male,Jakarta,Entrepreneur,Bachelor,Satisfied
+56.0,7880000.0,3.0,2856000.0,662.0,Male,Jakarta,Doctor,Bachelor,Very Unsatisfied
+47.0,5630000.0,3.0,1846000.0,642.0,Female,Medan,Software Engineer,Bachelor,Neutral
+51.0,20450000.0,6.0,12866000.0,680.0,Female,Bandung,Entrepreneur,High School,Unsatisfied
+45.0,5300000.0,1.0,2074000.0,645.0,Female,Yogyakarta,Teacher,High School,Satisfied
+27.0,6870000.0,5.0,4113000.0,795.0,Male,Bandung,Entrepreneur,High School,Neutral
+33.0,15870000.0,6.0,9557000.0,508.0,Male,Yogyakarta,Entrepreneur,Master,Neutral
+43.0,14570000.0,6.0,8310000.0,703.0,Female,Jakarta,Doctor,Doctorate,Neutral
+26.0,4740000.0,3.0,1702000.0,742.0,Male,Bandung,Data Analyst,Bachelor,Satisfied
+45.0,13240000.0,4.0,7780000.0,733.0,Female,Jakarta,Software Engineer,Bachelor,Unsatisfied
+36.0,7180000.0,5.0,4087000.0,739.0,Female,Bandung,Entrepreneur,High School,Unsatisfied
+34.0,7460000.0,4.0,3796000.0,750.0,Female,Surabaya,Data Analyst,Bachelor,Neutral
+45.0,4360000.0,4.0,1823000.0,635.0,Male,Jakarta,Marketing,High School,Very Satisfied
+42.0,4000000.0,4.0,1568000.0,597.0,Female,Medan,Software Engineer,Bachelor,Neutral
+34.0,11310000.0,4.0,3875000.0,527.0,Male,Medan,Software Engineer,Doctorate,Satisfied
+50.0,7620000.0,5.0,3646000.0,653.0,Female,Jakarta,Doctor,High School,Neutral
+27.0,6950000.0,2.0,3509000.0,622.0,Male,Bandung,Entrepreneur,Master,Neutral
+44.0,11350000.0,3.0,4832000.0,767.0,Male,Surabaya,Marketing,High School,Very Unsatisfied
+44.0,12200000.0,2.0,5690000.0,658.0,Male,Surabaya,Doctor,Bachelor,Very Unsatisfied
+35.0,4540000.0,1.0,1940000.0,603.0,Female,Medan,Teacher,High School,Neutral
+41.0,9150000.0,8.0,4798000.0,591.0,Male,Jakarta,Data Analyst,Bachelor,Neutral
+25.0,4370000.0,1.0,2689000.0,829.0,Male,Yogyakarta,Data Analyst,High School,Unsatisfied
+47.0,11850000.0,10.0,4235000.0,678.0,Male,Jakarta,Doctor,Bachelor,Satisfied
+36.0,9920000.0,5.0,4300000.0,621.0,Female,Bandung,Data Analyst,Bachelor,Very Satisfied
+33.0,22330000.0,6.0,7800000.0,689.0,Female,Bandung,Entrepreneur,Bachelor,Neutral
+48.0,3930000.0,3.0,2039000.0,822.0,Female,Jakarta,Data Analyst,Bachelor,Satisfied
+31.0,3850000.0,6.0,2137000.0,651.0,Female,Jakarta,Entrepreneur,Master,Very Satisfied
+24.0,5490000.0,4.0,3438000.0,732.0,Male,Medan,Teacher,Bachelor,Satisfied
+22.0,5320000.0,3.0,2115000.0,769.0,Male,Bandung,Marketing,High School,Neutral
+44.0,5200000.0,0.0,3289000.0,538.0,Female,Jakarta,Software Engineer,Bachelor,Satisfied
+25.0,17700000.0,5.0,5702000.0,632.0,Male,Surabaya,Doctor,Master,Unsatisfied
+56.0,5220000.0,8.0,2668000.0,760.0,Male,Jakarta,Doctor,Bachelor,Satisfied
+18.0,5400000.0,2.0,1728000.0,628.0,Male,Jakarta,Entrepreneur,Bachelor,Neutral
+55.0,12050000.0,3.0,7384000.0,711.0,Male,Surabaya,Teacher,High School,Unsatisfied
+40.0,7080000.0,6.0,3437000.0,623.0,Male,Jakarta,Teacher,Bachelor,Neutral
+37.0,12500000.0,1.0,6678000.0,647.0,Male,Medan,Software Engineer,Bachelor,Unsatisfied
+33.0,3910000.0,5.0,2311000.0,637.0,Male,Bandung,Marketing,Doctorate,Satisfied
+42.0,7510000.0,5.0,2648000.0,728.0,Male,Yogyakarta,Doctor,Master,Neutral
+38.0,3710000.0,7.0,1163000.0,695.0,Male,Bandung,Entrepreneur,High School,Satisfied
+49.0,3890000.0,5.0,2364000.0,687.0,Male,Yogyakarta,Teacher,Bachelor,Unsatisfied
+39.0,17710000.0,1.0,7265000.0,850.0,Male,Surabaya,Doctor,Bachelor,Unsatisfied
+40.0,4400000.0,4.0,1519000.0,810.0,Female,Bandung,Entrepreneur,Bachelor,Satisfied
+34.0,8060000.0,6.0,3740000.0,531.0,Male,Yogyakarta,Data Analyst,Master,Very Satisfied
+37.0,6680000.0,1.0,3403000.0,647.0,Female,Bandung,Doctor,Bachelor,Unsatisfied
+41.0,6060000.0,1.0,1884000.0,850.0,Female,Jakarta,Marketing,Bachelor,Neutral
+21.0,17310000.0,2.0,6858000.0,637.0,Female,Bandung,Entrepreneur,Bachelor,Very Satisfied
+25.0,3630000.0,6.0,1131000.0,837.0,Male,Yogyakarta,Marketing,Master,Very Unsatisfied
+45.0,10040000.0,4.0,4489000.0,648.0,Male,Medan,Doctor,Bachelor,Very Satisfied
+40.0,23350000.0,5.0,14320000.0,662.0,Male,Surabaya,Data Analyst,Bachelor,Satisfied
+36.0,8430000.0,8.0,5428000.0,745.0,Female,Bandung,Marketing,Bachelor,Neutral
+38.0,20070000.0,5.0,10496000.0,673.0,Male,Yogyakarta,Teacher,Bachelor,Neutral
+41.0,3820000.0,6.0,1362000.0,717.0,Female,Jakarta,Entrepreneur,Doctorate,Neutral
+33.0,6760000.0,3.0,4171000.0,798.0,Female,Bandung,Doctor,Bachelor,Neutral
+30.0,5310000.0,3.0,2552000.0,737.0,Male,Jakarta,Data Analyst,Bachelor,Very Satisfied
+40.0,11370000.0,4.0,4023000.0,691.0,Male,Bandung,Teacher,Bachelor,Satisfied
+28.0,27370000.0,4.0,17041000.0,806.0,Female,Bandung,Doctor,Master,Satisfied
+42.0,5280000.0,5.0,2984000.0,746.0,Male,Jakarta,Data Analyst,Bachelor,Satisfied
+21.0,9870000.0,4.0,5489000.0,625.0,Male,Jakarta,Teacher,High School,Neutral
+48.0,4820000.0,5.0,2642000.0,829.0,Female,Bandung,Marketing,Bachelor,Satisfied
+43.0,8500000.0,3.0,3146000.0,728.0,Male,Jakarta,Doctor,Bachelor,Neutral
+41.0,7240000.0,1.0,2707000.0,664.0,Female,Jakarta,Doctor,Master,Satisfied
+48.0,24950000.0,3.0,13496000.0,528.0,Female,Medan,Marketing,Master,Neutral
+55.0,9130000.0,3.0,3441000.0,577.0,Female,Jakarta,Software Engineer,Bachelor,Satisfied
+48.0,6080000.0,3.0,2757000.0,808.0,Male,Surabaya,Teacher,High School,Very Satisfied
+20.0,4230000.0,6.0,2427000.0,810.0,Male,Yogyakarta,Marketing,Doctorate,Neutral
+25.0,4480000.0,7.0,2573000.0,686.0,Female,Jakarta,Doctor,Bachelor,Very Unsatisfied
+32.0,5030000.0,5.0,2307000.0,547.0,Male,Surabaya,Teacher,Bachelor,Satisfied
+38.0,5230000.0,4.0,3019000.0,598.0,Male,Bandung,Teacher,Bachelor,Neutral
+43.0,14910000.0,2.0,8849000.0,558.0,Male,Bandung,Software Engineer,Bachelor,Satisfied
+31.0,8440000.0,0.0,4466000.0,555.0,Male,Yogyakarta,Doctor,Bachelor,Very Satisfied
+40.0,7950000.0,4.0,3021000.0,832.0,Male,Yogyakarta,Data Analyst,Master,Neutral
+30.0,4230000.0,3.0,1675000.0,834.0,Female,Bandung,Software Engineer,Master,Neutral
+32.0,15300000.0,5.0,6276000.0,596.0,Male,Jakarta,Software Engineer,Bachelor,Satisfied
+24.0,11200000.0,3.0,3818000.0,679.0,Male,Jakarta,Data Analyst,Bachelor,Unsatisfied
+29.0,3920000.0,4.0,1551000.0,584.0,Female,Surabaya,Data Analyst,High School,Neutral
+24.0,10880000.0,6.0,4062000.0,679.0,Female,Jakarta,Software Engineer,High School,Very Satisfied
+28.0,8210000.0,3.0,3771000.0,803.0,Male,Bandung,Teacher,Bachelor,Satisfied
+49.0,4010000.0,3.0,2478000.0,761.0,Male,Bandung,Marketing,Bachelor,Very Unsatisfied
+29.0,7180000.0,4.0,2417000.0,741.0,Female,Jakarta,Marketing,Doctorate,Unsatisfied
+64.0,7480000.0,5.0,4130000.0,665.0,Female,Medan,Software Engineer,Master,Satisfied
+43.0,4590000.0,5.0,2481000.0,775.0,Female,Jakarta,Teacher,Bachelor,Satisfied
+40.0,20980000.0,4.0,6997000.0,729.0,Female,Surabaya,Data Analyst,Bachelor,Satisfied
+29.0,14880000.0,8.0,9269000.0,710.0,Male,Bandung,Entrepreneur,High School,Neutral
+45.0,10130000.0,6.0,5055000.0,671.0,Female,Surabaya,Software Engineer,Doctorate,Very Satisfied
+32.0,7220000.0,4.0,3085000.0,704.0,Male,Surabaya,Doctor,Bachelor,Satisfied
+39.0,6680000.0,3.0,3773000.0,702.0,Female,Jakarta,Teacher,High School,Satisfied
+64.0,9820000.0,3.0,3831000.0,639.0,Female,Surabaya,Doctor,Bachelor,Satisfied
+37.0,8230000.0,4.0,4467000.0,622.0,Female,Bandung,Doctor,Master,Unsatisfied
+49.0,3890000.0,4.0,1221000.0,605.0,Male,Yogyakarta,Software Engineer,Master,Very Satisfied
+31.0,7810000.0,3.0,4638000.0,610.0,Male,Surabaya,Teacher,High School,Unsatisfied
+38.0,13350000.0,4.0,6099000.0,666.0,Female,Surabaya,Doctor,Master,Neutral
+56.0,7190000.0,3.0,3759000.0,654.0,Female,Bandung,Teacher,Bachelor,Satisfied
+32.0,3820000.0,5.0,1442000.0,633.0,Female,Yogyakarta,Marketing,High School,Satisfied
+56.0,12760000.0,2.0,6852000.0,628.0,Male,Jakarta,Entrepreneur,Master,Satisfied
+45.0,4850000.0,6.0,2766000.0,702.0,Male,Surabaya,Doctor,Master,Satisfied
+32.0,5300000.0,5.0,2468000.0,783.0,Male,Medan,Doctor,Bachelor,Neutral
+44.0,4580000.0,1.0,2364000.0,679.0,Male,Bandung,Teacher,Bachelor,Very Satisfied
+48.0,5900000.0,5.0,2712000.0,674.0,Female,Jakarta,Entrepreneur,Master,Very Unsatisfied
+44.0,11980000.0,4.0,7343000.0,610.0,Male,Bandung,Marketing,Master,Very Satisfied
+22.0,7900000.0,0.0,3747000.0,663.0,Female,Jakarta,Doctor,Master,Neutral
+31.0,4880000.0,5.0,2902000.0,769.0,Female,Surabaya,Software Engineer,Bachelor,Satisfied
+36.0,16110000.0,4.0,9351000.0,758.0,Female,Surabaya,Teacher,Doctorate,Unsatisfied
+37.0,16200000.0,6.0,7188000.0,753.0,Male,Medan,Teacher,Doctorate,Satisfied
+44.0,15770000.0,1.0,6001000.0,750.0,Female,Surabaya,Doctor,High School,Very Satisfied
+40.0,5140000.0,2.0,2273000.0,713.0,Male,Jakarta,Marketing,Master,Neutral
+25.0,7100000.0,2.0,4183000.0,710.0,Female,Jakarta,Doctor,Bachelor,Satisfied
+42.0,28690000.0,3.0,10893000.0,698.0,Male,Medan,Data Analyst,Bachelor,Satisfied
+44.0,12370000.0,3.0,5982000.0,649.0,Male,Jakarta,Doctor,Bachelor,Satisfied
+44.0,3670000.0,1.0,2136000.0,686.0,Male,Surabaya,Entrepreneur,High School,Very Satisfied
+49.0,3900000.0,3.0,1652000.0,696.0,Male,Jakarta,Entrepreneur,Bachelor,Neutral
+46.0,7240000.0,3.0,3799000.0,727.0,Female,Bandung,Data Analyst,Master,Unsatisfied
+43.0,17900000.0,3.0,6909000.0,688.0,Male,Surabaya,Entrepreneur,Bachelor,Very Unsatisfied
+37.0,8140000.0,2.0,2753000.0,838.0,Female,Surabaya,Entrepreneur,Bachelor,Neutral
+21.0,7630000.0,3.0,4410000.0,589.0,Female,Surabaya,Software Engineer,Doctorate,Unsatisfied
+42.0,4170000.0,6.0,1395000.0,737.0,Male,Medan,Teacher,Bachelor,Satisfied
+40.0,9920000.0,2.0,3918000.0,677.0,Female,Surabaya,Entrepreneur,Bachelor,Unsatisfied
+41.0,13860000.0,4.0,8306000.0,680.0,Male,Bandung,Teacher,Bachelor,Very Unsatisfied
+25.0,6370000.0,4.0,2683000.0,619.0,Male,Medan,Marketing,Bachelor,Very Unsatisfied
+27.0,12470000.0,3.0,7988000.0,756.0,Male,Yogyakarta,Doctor,Bachelor,Satisfied
+49.0,23530000.0,4.0,15128000.0,729.0,Female,Jakarta,Software Engineer,Master,Satisfied
+38.0,4870000.0,3.0,1918000.0,743.0,Male,Yogyakarta,Data Analyst,Bachelor,Neutral
+45.0,7950000.0,3.0,2499000.0,693.0,Female,Jakarta,Marketing,Master,Very Satisfied
+38.0,5530000.0,6.0,3024000.0,656.0,Male,Surabaya,Software Engineer,Bachelor,Very Unsatisfied
+38.0,12950000.0,7.0,5929000.0,675.0,Female,Medan,Software Engineer,Bachelor,Very Satisfied
+47.0,8670000.0,6.0,2907000.0,713.0,Male,Jakarta,Data Analyst,Bachelor,Satisfied
+33.0,9540000.0,2.0,5224000.0,530.0,Female,Jakarta,Data Analyst,Master,Unsatisfied
+39.0,13090000.0,1.0,4070000.0,745.0,Female,Jakarta,Teacher,Bachelor,Satisfied
+33.0,6520000.0,5.0,3942000.0,850.0,Female,Bandung,Doctor,High School,Satisfied
+34.0,18300000.0,2.0,6378000.0,716.0,Female,Surabaya,Marketing,High School,Neutral
+35.0,8070000.0,5.0,2781000.0,659.0,Female,Bandung,Doctor,Bachelor,Very Satisfied
+40.0,4530000.0,3.0,1638000.0,668.0,Male,Medan,Marketing,Bachelor,Unsatisfied
+33.0,10640000.0,5.0,6768000.0,733.0,Male,Bandung,Software Engineer,Bachelor,Neutral
+51.0,12960000.0,5.0,7032000.0,661.0,Male,Jakarta,Entrepreneur,High School,Unsatisfied
+29.0,5790000.0,5.0,3361000.0,745.0,Male,Yogyakarta,Entrepreneur,Master,Unsatisfied
+36.0,15180000.0,6.0,6667000.0,667.0,Male,Jakarta,Data Analyst,Bachelor,Neutral
+34.0,17700000.0,6.0,7393000.0,809.0,Male,Jakarta,Data Analyst,Bachelor,Very Satisfied
+52.0,5450000.0,5.0,2082000.0,806.0,Male,Jakarta,Software Engineer,Bachelor,Very Unsatisfied
+40.0,28130000.0,5.0,13171000.0,655.0,Female,Surabaya,Software Engineer,Bachelor,Neutral
+48.0,4410000.0,2.0,2175000.0,674.0,Male,Jakarta,Marketing,Master,Satisfied
+23.0,4850000.0,4.0,2527000.0,678.0,Female,Jakarta,Software Engineer,High School,Very Satisfied
+41.0,4720000.0,4.0,1841000.0,679.0,Male,Jakarta,Marketing,Bachelor,Very Satisfied
+47.0,16970000.0,2.0,10726000.0,609.0,Female,Jakarta,Doctor,Master,Satisfied
+39.0,9870000.0,3.0,3547000.0,598.0,Female,Bandung,Data Analyst,Bachelor,Very Satisfied
+49.0,4490000.0,3.0,2865000.0,774.0,Male,Medan,Data Analyst,Bachelor,Satisfied
+33.0,6980000.0,4.0,2130000.0,762.0,Male,Bandung,Entrepreneur,Bachelor,Very Satisfied
+52.0,9230000.0,4.0,4323000.0,760.0,Male,Jakarta,Entrepreneur,Master,Satisfied
+61.0,4020000.0,2.0,1675000.0,675.0,Male,Jakarta,Data Analyst,Doctorate,Very Unsatisfied
+34.0,16340000.0,6.0,7471000.0,822.0,Female,Yogyakarta,Doctor,Master,Neutral
+34.0,13270000.0,4.0,6631000.0,678.0,Female,Jakarta,Doctor,Bachelor,Satisfied
+53.0,7720000.0,4.0,3493000.0,745.0,Male,Medan,Teacher,Doctorate,Neutral
+54.0,23990000.0,4.0,10680000.0,576.0,Male,Jakarta,Marketing,High School,Neutral
+33.0,6750000.0,6.0,3756000.0,663.0,Male,Yogyakarta,Entrepreneur,High School,Satisfied
+34.0,28350000.0,5.0,15311000.0,668.0,Male,Jakarta,Marketing,Master,Very Satisfied
+35.0,10110000.0,3.0,5982000.0,675.0,Female,Surabaya,Entrepreneur,High School,Very Unsatisfied
+25.0,9540000.0,5.0,3697000.0,581.0,Male,Bandung,Teacher,High School,Satisfied
+29.0,4590000.0,5.0,2356000.0,733.0,Female,Surabaya,Data Analyst,Bachelor,Satisfied
+28.0,16320000.0,5.0,8239000.0,757.0,Male,Jakarta,Marketing,Bachelor,Very Satisfied
+30.0,6850000.0,4.0,2941000.0,624.0,Male,Surabaya,Entrepreneur,Master,Very Satisfied
+38.0,4560000.0,6.0,2144000.0,594.0,Female,Bandung,Marketing,Bachelor,Satisfied
+40.0,3580000.0,2.0,1467000.0,622.0,Male,Jakarta,Data Analyst,Bachelor,Satisfied
+54.0,8420000.0,9.0,2944000.0,717.0,Female,Jakarta,Software Engineer,Bachelor,Unsatisfied
+28.0,8000000.0,2.0,2999000.0,635.0,Female,Surabaya,Entrepreneur,Master,Satisfied
+48.0,11120000.0,2.0,3747000.0,670.0,Male,Jakarta,Software Engineer,Master,Satisfied
+36.0,16760000.0,2.0,9035000.0,599.0,Male,Bandung,Teacher,Bachelor,Very Satisfied
+38.0,4000000.0,3.0,2125000.0,828.0,Female,Jakarta,Doctor,Doctorate,Satisfied
+45.0,11390000.0,6.0,7207000.0,685.0,Female,Surabaya,Marketing,Master,Unsatisfied
+27.0,4750000.0,2.0,2638000.0,766.0,Female,Jakarta,Entrepreneur,High School,Satisfied
+42.0,15220000.0,4.0,4843000.0,717.0,Male,Surabaya,Marketing,High School,Neutral
+40.0,13760000.0,3.0,8387000.0,677.0,Female,Jakarta,Teacher,High School,Very Unsatisfied
+43.0,8170000.0,9.0,4918000.0,673.0,Male,Jakarta,Teacher,Master,Unsatisfied
+41.0,10930000.0,4.0,4975000.0,626.0,Female,Jakarta,Marketing,High School,Unsatisfied
+63.0,5760000.0,0.0,2909000.0,646.0,Female,Yogyakarta,Entrepreneur,Bachelor,Satisfied
+32.0,7320000.0,4.0,4697000.0,604.0,Male,Jakarta,Data Analyst,High School,Neutral
+33.0,13840000.0,4.0,6730000.0,596.0,Female,Bandung,Data Analyst,Master,Neutral
+32.0,7190000.0,3.0,4435000.0,836.0,Male,Jakarta,Doctor,Bachelor,Very Satisfied
+32.0,6160000.0,3.0,2027000.0,701.0,Female,Jakarta,Marketing,Master,Neutral
+32.0,7590000.0,1.0,2785000.0,790.0,Male,Surabaya,Marketing,Doctorate,Very Unsatisfied
+50.0,14070000.0,6.0,6391000.0,620.0,Female,Surabaya,Entrepreneur,High School,Neutral
+52.0,5950000.0,8.0,3003000.0,586.0,Male,Yogyakarta,Marketing,Bachelor,Unsatisfied
+32.0,4650000.0,3.0,2723000.0,607.0,Female,Yogyakarta,Entrepreneur,High School,Unsatisfied
+30.0,10970000.0,2.0,7085000.0,648.0,Female,Bandung,Marketing,Master,Very Unsatisfied
+43.0,13990000.0,6.0,6101000.0,683.0,Male,Bandung,Teacher,Bachelor,Satisfied
+32.0,4140000.0,2.0,1311000.0,669.0,Male,Surabaya,Software Engineer,High School,Unsatisfied
+44.0,5150000.0,6.0,2989000.0,622.0,Female,Surabaya,Marketing,High School,Neutral
+40.0,4420000.0,3.0,2261000.0,687.0,Male,Yogyakarta,Software Engineer,Bachelor,Very Satisfied
+23.0,6070000.0,3.0,2243000.0,693.0,Female,Bandung,Data Analyst,Doctorate,Neutral
+53.0,7090000.0,1.0,3355000.0,733.0,Male,Surabaya,Doctor,Bachelor,Very Satisfied
+56.0,11790000.0,3.0,6600000.0,790.0,Female,Jakarta,Data Analyst,Master,Neutral
+32.0,9820000.0,4.0,5594000.0,653.0,Male,Jakarta,Marketing,Bachelor,Neutral
+34.0,9320000.0,4.0,4426000.0,771.0,Male,Yogyakarta,Entrepreneur,High School,Satisfied
+41.0,6110000.0,3.0,2486000.0,685.0,Male,Jakarta,Data Analyst,Doctorate,Very Unsatisfied
+41.0,14550000.0,2.0,9324000.0,565.0,Male,Surabaya,Teacher,High School,Unsatisfied
+45.0,7320000.0,8.0,3896000.0,814.0,Male,Jakarta,Software Engineer,Doctorate,Satisfied
+58.0,26710000.0,3.0,11829000.0,850.0,Male,Medan,Entrepreneur,Bachelor,Neutral
+36.0,9530000.0,4.0,3794000.0,726.0,Female,Jakarta,Entrepreneur,High School,Satisfied
+30.0,4310000.0,4.0,2396000.0,687.0,Female,Medan,Marketing,Bachelor,Very Satisfied
+24.0,10270000.0,7.0,3952000.0,660.0,Female,Jakarta,Teacher,Doctorate,Neutral
+31.0,5860000.0,4.0,2110000.0,645.0,Male,Medan,Software Engineer,Doctorate,Satisfied
+38.0,10460000.0,2.0,5078000.0,771.0,Female,Bandung,Teacher,High School,Satisfied
+56.0,3930000.0,2.0,1578000.0,679.0,Male,Jakarta,Data Analyst,High School,Very Satisfied
+33.0,4650000.0,3.0,2419000.0,806.0,Female,Surabaya,Marketing,Bachelor,Satisfied
+40.0,15120000.0,4.0,5160000.0,683.0,Male,Jakarta,Entrepreneur,Bachelor,Very Satisfied
+38.0,5050000.0,5.0,2673000.0,649.0,Male,Jakarta,Entrepreneur,Master,Neutral
+50.0,14390000.0,6.0,5744000.0,635.0,Male,Medan,Data Analyst,High School,Satisfied
+63.0,5460000.0,6.0,1638000.0,624.0,Female,Surabaya,Entrepreneur,Doctorate,Neutral
+33.0,9680000.0,6.0,3334000.0,719.0,Male,Surabaya,Doctor,Bachelor,Unsatisfied
+33.0,10610000.0,2.0,6650000.0,583.0,Female,Jakarta,Marketing,Master,Very Satisfied
+48.0,7810000.0,2.0,4714000.0,619.0,Male,Surabaya,Data Analyst,Bachelor,Very Unsatisfied
+45.0,5690000.0,5.0,2172000.0,779.0,Female,Medan,Marketing,Bachelor,Very Satisfied
+56.0,4930000.0,4.0,2822000.0,608.0,Female,Surabaya,Software Engineer,Doctorate,Unsatisfied
+44.0,3700000.0,3.0,1898000.0,745.0,Male,Yogyakarta,Marketing,Bachelor,Satisfied
+34.0,5670000.0,3.0,3628000.0,525.0,Male,Yogyakarta,Marketing,Master,Neutral
+44.0,9850000.0,5.0,4243000.0,789.0,Female,Jakarta,Software Engineer,Doctorate,Neutral
+49.0,20210000.0,1.0,10883000.0,585.0,Female,Jakarta,Data Analyst,Bachelor,Unsatisfied
+46.0,15800000.0,3.0,5091000.0,614.0,Male,Medan,Marketing,Bachelor,Satisfied
+43.0,12220000.0,7.0,5361000.0,731.0,Female,Surabaya,Teacher,High School,Neutral
+49.0,12820000.0,5.0,8171000.0,700.0,Female,Jakarta,Marketing,High School,Satisfied
+50.0,10060000.0,6.0,4916000.0,747.0,Male,Jakarta,Data Analyst,Bachelor,Very Unsatisfied
+52.0,5310000.0,5.0,2128000.0,584.0,Female,Surabaya,Entrepreneur,High School,Very Unsatisfied
+44.0,17760000.0,4.0,6076000.0,658.0,Male,Medan,Software Engineer,Bachelor,Unsatisfied
+36.0,10170000.0,4.0,5555000.0,634.0,Male,Jakarta,Entrepreneur,Bachelor,Neutral
+39.0,8430000.0,4.0,4432000.0,597.0,Female,Jakarta,Data Analyst,Bachelor,Satisfied
+50.0,4210000.0,5.0,1814000.0,725.0,Male,Yogyakarta,Doctor,Bachelor,Very Satisfied
+30.0,7050000.0,3.0,4461000.0,751.0,Male,Bandung,Entrepreneur,High School,Neutral
+42.0,7200000.0,5.0,2216000.0,655.0,Female,Surabaya,Marketing,High School,Satisfied
+34.0,15500000.0,5.0,6298000.0,794.0,Female,Bandung,Marketing,Bachelor,Satisfied
+38.0,8250000.0,0.0,5135000.0,621.0,Female,Surabaya,Software Engineer,Bachelor,Neutral
+51.0,6370000.0,5.0,2627000.0,792.0,Female,Bandung,Marketing,Bachelor,Neutral
+40.0,26080000.0,2.0,10127000.0,722.0,Female,Surabaya,Teacher,Bachelor,Satisfied
+38.0,4200000.0,6.0,2045000.0,588.0,Male,Jakarta,Teacher,Master,Unsatisfied
+24.0,6790000.0,4.0,3995000.0,829.0,Male,Bandung,Entrepreneur,Bachelor,Very Unsatisfied
+45.0,3760000.0,3.0,1264000.0,647.0,Female,Surabaya,Data Analyst,Bachelor,Unsatisfied
+44.0,11580000.0,5.0,7296000.0,770.0,Male,Yogyakarta,Software Engineer,Doctorate,Satisfied
+60.0,18510000.0,7.0,10704000.0,691.0,Female,Jakarta,Doctor,Master,Very Unsatisfied
+35.0,5470000.0,4.0,1988000.0,708.0,Female,Yogyakarta,Entrepreneur,Bachelor,Unsatisfied
+40.0,15230000.0,2.0,8364000.0,748.0,Male,Yogyakarta,Data Analyst,Bachelor,Neutral
+40.0,5570000.0,5.0,2421000.0,743.0,Female,Jakarta,Software Engineer,High School,Very Unsatisfied
+54.0,18000000.0,3.0,7934000.0,654.0,Male,Medan,Software Engineer,Bachelor,Unsatisfied
+37.0,11910000.0,0.0,6838000.0,720.0,Male,Surabaya,Entrepreneur,Doctorate,Very Satisfied
+41.0,13310000.0,3.0,8478000.0,714.0,Female,Yogyakarta,Data Analyst,Bachelor,Very Unsatisfied
+44.0,3610000.0,9.0,1243000.0,696.0,Male,Surabaya,Data Analyst,Master,Satisfied
+40.0,23250000.0,4.0,10398000.0,665.0,Male,Bandung,Marketing,Bachelor,Neutral
+34.0,11280000.0,5.0,5283000.0,696.0,Male,Surabaya,Doctor,Doctorate,Satisfied
+40.0,5680000.0,4.0,2452000.0,828.0,Female,Jakarta,Teacher,Bachelor,Satisfied
+49.0,14110000.0,2.0,6027000.0,658.0,Female,Jakarta,Marketing,High School,Unsatisfied
+28.0,5480000.0,3.0,1744000.0,770.0,Female,Surabaya,Software Engineer,Bachelor,Satisfied
+39.0,15870000.0,4.0,8569000.0,634.0,Female,Bandung,Doctor,Bachelor,Neutral
+31.0,4220000.0,5.0,1910000.0,614.0,Male,Bandung,Doctor,High School,Satisfied
+50.0,10800000.0,4.0,3976000.0,850.0,Female,Bandung,Data Analyst,Master,Neutral
+23.0,8170000.0,5.0,4784000.0,721.0,Female,Jakarta,Doctor,Bachelor,Very Satisfied
+32.0,4110000.0,4.0,2387000.0,723.0,Male,Surabaya,Entrepreneur,Master,Satisfied
+42.0,5160000.0,4.0,2426000.0,725.0,Male,Jakarta,Doctor,Bachelor,Very Satisfied
+54.0,3570000.0,5.0,1444000.0,786.0,Female,Medan,Software Engineer,High School,Satisfied
+37.0,7300000.0,5.0,3820000.0,711.0,Female,Yogyakarta,Entrepreneur,Doctorate,Neutral
+32.0,5650000.0,3.0,2265000.0,741.0,Female,Surabaya,Entrepreneur,Bachelor,Satisfied
+57.0,8970000.0,3.0,3432000.0,601.0,Female,Jakarta,Marketing,Bachelor,Very Satisfied
+24.0,5620000.0,2.0,3123000.0,754.0,Female,Jakarta,Doctor,Bachelor,Very Satisfied
+18.0,5640000.0,1.0,1772000.0,662.0,Female,Bandung,Data Analyst,Bachelor,Neutral
+42.0,11660000.0,6.0,3885000.0,730.0,Female,Bandung,Marketing,Master,Satisfied
+33.0,3800000.0,3.0,1149000.0,551.0,Male,Medan,Data Analyst,Bachelor,Unsatisfied
+28.0,17490000.0,3.0,6183000.0,727.0,Female,Jakarta,Doctor,Bachelor,Satisfied
+45.0,14970000.0,3.0,4852000.0,512.0,Male,Bandung,Marketing,Master,Unsatisfied
+40.0,10110000.0,5.0,6557000.0,659.0,Female,Bandung,Doctor,High School,Neutral
+32.0,8900000.0,4.0,3570000.0,552.0,Male,Jakarta,Software Engineer,Bachelor,Very Satisfied
+25.0,16870000.0,6.0,5942000.0,727.0,Male,Surabaya,Marketing,Doctorate,Unsatisfied
+47.0,4730000.0,3.0,1818000.0,685.0,Male,Jakarta,Data Analyst,Bachelor,Satisfied
+45.0,3990000.0,1.0,2504000.0,622.0,Male,Surabaya,Software Engineer,Master,Satisfied
+37.0,5140000.0,3.0,2478000.0,788.0,Male,Medan,Teacher,Bachelor,Unsatisfied
+56.0,13000000.0,7.0,5560000.0,613.0,Male,Surabaya,Data Analyst,Master,Neutral
+27.0,3710000.0,5.0,2247000.0,453.0,Female,Medan,Doctor,Doctorate,Satisfied
+23.0,8750000.0,4.0,3835000.0,719.0,Male,Surabaya,Data Analyst,Bachelor,Unsatisfied
+31.0,35840000.0,6.0,14954000.0,548.0,Male,Jakarta,Teacher,High School,Satisfied
+38.0,15120000.0,6.0,5633000.0,615.0,Female,Surabaya,Data Analyst,Bachelor,Very Satisfied
+40.0,7920000.0,2.0,3423000.0,641.0,Female,Surabaya,Software Engineer,Master,Unsatisfied
+36.0,3890000.0,3.0,1598000.0,573.0,Male,Surabaya,Entrepreneur,Bachelor,Unsatisfied
+42.0,14180000.0,6.0,7615000.0,643.0,Female,Jakarta,Data Analyst,High School,Neutral
+25.0,8980000.0,4.0,3604000.0,575.0,Female,Surabaya,Marketing,Bachelor,Satisfied
+52.0,4230000.0,1.0,2124000.0,692.0,Male,Jakarta,Teacher,Doctorate,Neutral
+37.0,4090000.0,2.0,1321000.0,588.0,Male,Jakarta,Data Analyst,Bachelor,Very Unsatisfied
+49.0,17920000.0,5.0,6576000.0,682.0,Female,Surabaya,Teacher,Bachelor,Satisfied
+41.0,10140000.0,3.0,4488000.0,767.0,Female,Jakarta,Entrepreneur,High School,Very Satisfied
+43.0,14110000.0,5.0,8860000.0,739.0,Female,Yogyakarta,Software Engineer,Bachelor,Neutral
+44.0,16170000.0,4.0,6986000.0,674.0,Male,Surabaya,Marketing,High School,Neutral
+42.0,8590000.0,5.0,4574000.0,606.0,Male,Bandung,Doctor,High School,Very Satisfied
+44.0,7870000.0,5.0,3064000.0,692.0,Female,Surabaya,Data Analyst,Master,Satisfied
+51.0,6880000.0,3.0,2370000.0,628.0,Male,Bandung,Software Engineer,Doctorate,Satisfied
+40.0,5790000.0,6.0,1856000.0,695.0,Male,Jakarta,Teacher,High School,Satisfied
+45.0,6920000.0,6.0,2816000.0,551.0,Female,Yogyakarta,Entrepreneur,High School,Very Satisfied
+37.0,12420000.0,4.0,4411000.0,741.0,Male,Surabaya,Teacher,Bachelor,Satisfied
+52.0,9030000.0,2.0,3259000.0,682.0,Female,Medan,Entrepreneur,Bachelor,Very Satisfied
+31.0,16880000.0,3.0,9559000.0,846.0,Female,Surabaya,Entrepreneur,Bachelor,Satisfied
+56.0,7020000.0,5.0,2145000.0,778.0,Male,Jakarta,Software Engineer,Bachelor,Satisfied
+38.0,9110000.0,5.0,4512000.0,722.0,Female,Bandung,Data Analyst,Bachelor,Neutral
+24.0,9490000.0,3.0,4107000.0,671.0,Male,Jakarta,Doctor,Master,Neutral
+39.0,8870000.0,3.0,4234000.0,625.0,Female,Surabaya,Data Analyst,Master,Satisfied
+31.0,10780000.0,3.0,5358000.0,751.0,Male,Jakarta,Marketing,Bachelor,Neutral
+46.0,5130000.0,2.0,2102000.0,663.0,Male,Bandung,Data Analyst,Bachelor,Satisfied
+31.0,7810000.0,4.0,3150000.0,768.0,Female,Yogyakarta,Entrepreneur,Master,Neutral
+34.0,4160000.0,1.0,2316000.0,710.0,Male,Surabaya,Entrepreneur,Doctorate,Satisfied
+19.0,6410000.0,6.0,3878000.0,711.0,Female,Medan,Marketing,High School,Unsatisfied
+33.0,7510000.0,5.0,2759000.0,725.0,Male,Surabaya,Teacher,Bachelor,Satisfied
+18.0,9840000.0,4.0,3288000.0,611.0,Male,Surabaya,Entrepreneur,Bachelor,Satisfied
+22.0,21540000.0,2.0,13230000.0,603.0,Male,Yogyakarta,Marketing,High School,Unsatisfied
+46.0,9010000.0,4.0,3806000.0,601.0,Male,Medan,Entrepreneur,Bachelor,Satisfied
+46.0,11670000.0,5.0,5753000.0,759.0,Male,Medan,Doctor,Bachelor,Neutral
+42.0,7730000.0,5.0,3292000.0,609.0,Female,Jakarta,Entrepreneur,Bachelor,Neutral
+28.0,9530000.0,5.0,3279000.0,618.0,Female,Surabaya,Software Engineer,Bachelor,Neutral
+38.0,3940000.0,6.0,1995000.0,720.0,Female,Jakarta,Marketing,Bachelor,Very Unsatisfied
+38.0,5260000.0,6.0,2545000.0,661.0,Female,Surabaya,Data Analyst,Doctorate,Very Satisfied
+26.0,6200000.0,4.0,2300000.0,652.0,Male,Surabaya,Marketing,Bachelor,Very Unsatisfied
+53.0,7340000.0,4.0,3363000.0,645.0,Female,Medan,Teacher,Bachelor,Satisfied
+47.0,3780000.0,5.0,2188000.0,506.0,Male,Medan,Entrepreneur,High School,Neutral
+36.0,4410000.0,6.0,2234000.0,607.0,Female,Surabaya,Marketing,High School,Satisfied
+38.0,5440000.0,4.0,1817000.0,769.0,Male,Jakarta,Doctor,Bachelor,Neutral
+40.0,24850000.0,6.0,12221000.0,640.0,Female,Medan,Marketing,High School,Satisfied
+18.0,5910000.0,2.0,3227000.0,537.0,Female,Jakarta,Doctor,High School,Satisfied
+36.0,7450000.0,3.0,4302000.0,604.0,Female,Bandung,Entrepreneur,High School,Satisfied
+31.0,4810000.0,4.0,2502000.0,707.0,Female,Jakarta,Data Analyst,Bachelor,Unsatisfied
+28.0,9160000.0,5.0,3237000.0,706.0,Female,Surabaya,Entrepreneur,Master,Satisfied
+35.0,5480000.0,4.0,3006000.0,658.0,Female,Yogyakarta,Teacher,Bachelor,Neutral
+56.0,4890000.0,6.0,2626000.0,628.0,Male,Jakarta,Software Engineer,Bachelor,Very Unsatisfied
+44.0,7860000.0,2.0,2425000.0,575.0,Male,Surabaya,Data Analyst,High School,Neutral
+32.0,3530000.0,7.0,1568000.0,708.0,Male,Jakarta,Data Analyst,Bachelor,Neutral
+44.0,3550000.0,2.0,1479000.0,743.0,Male,Yogyakarta,Software Engineer,Bachelor,Neutral

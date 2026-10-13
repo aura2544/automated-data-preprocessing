@@ -30,7 +30,9 @@ def apply_custom_css():
     [data-testid="stHeader"] { height: .35rem; background: transparent; }
     /* Sembunyikan toolbar di desktop; di mobile tombol sidebar harus tetap ada */
     @media (min-width: 769px) {
-        [data-testid="stToolbar"] { display: none; }
+        [data-testid="stToolbar"] {
+    display: flex !important;
+}
     }
     @media (max-width: 768px) {
         [data-testid="stHeader"] { height: 3.25rem; background: var(--surface); border-bottom: 1px solid var(--line); }
